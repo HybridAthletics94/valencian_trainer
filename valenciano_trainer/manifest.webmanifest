@@ -1,0 +1,37 @@
+{
+  "name": "Entrenador de Valenciano",
+  "short_name": "Valencià",
+  "description": "App sencilla para practicar valenciano B2, C1 y C2 desde el móvil.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f7fb",
+  "theme_color": "#1f6feb",
+  "lang": "es",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Practicar",
+      "short_name": "Practicar",
+      "description": "Abrir el entrenador de valenciano",
+      "url": "./index.html",
+      "icons": [
+        {
+          "src": "app-icon.svg",
+          "sizes": "any",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+id,nivel,tema,tipo,pregunta,opcion_a,opcion_b,opcion_c,opcion_d,respuesta,explicacion,fuente
+B2-ACC-0001,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,historia,historía,història,históría,C,Les esdrúixoles porten accent; en història l’accent recau en ò.,Material original
+B2-ACC-0002,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,familià,familia,famíliaa,família,D,Família porta accent perquè és esdrúixola.,Material original
+B2-ACC-0003,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,musica,musicà,música,mùsica,C,Música és esdrúixola.,Material original
+B2-ACC-0004,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,màquina,maquina,máquina,maquína,A,Màquina és esdrúixola.,Material original
+B2-ACC-0005,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,telèfon,telèfón,teléfón,telefon,A,Telèfon porta accent obert en la e.,Material original
+B2-ACC-0006,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,paginà,pagina,pàgina,página,C,Pàgina és esdrúixola.,Material original
+B2-ACC-0007,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,peró,pèro,pero,però,D,Però porta accent obert en la o.,Material original
+B2-ACC-0008,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,això,axò,aixo,aixó,A,Això porta accent obert en la o.,Material original
+B2-ACC-0009,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,tambè,també,tambe,támbe,B,També porta accent tancat en la e.,Material original
+B2-ACC-0010,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,desprès,déspres,després,despres,C,Després porta accent tancat.,Material original
+B2-ACC-0011,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,nómés,només,nòmes,nomes,B,Només porta accent tancat.,Material original
+B2-ACC-0012,B2,Accentuació i dièresi,test,Tria la forma escrita correctament.,pèrque,perqué,perquè,perque,C,Perquè porta accent obert en valencià estàndard.,Material original
+B2-ACC-0036,B2,Accentuació i dièresi,test,La paraula “camió” és...,plana,monosíl·laba,aguda,esdrúixola,C,Acaba en vocal i porta accent perquè és aguda.,Material original
+B2-ACC-0037,B2,Accentuació i dièresi,test,La paraula “fàcil” és...,sobreesdrúixola,aguda,esdrúixola,plana,D,"Fàcil és plana i no acaba en vocal, vocal+s, -en ni -in.",Material original
+B2-ACC-0038,B2,Accentuació i dièresi,test,La paraula “música” és...,monosíl·laba,aguda,plana,esdrúixola,D,Les esdrúixoles porten accent sempre.,Material original
+B2-ACC-0039,B2,Accentuació i dièresi,test,"En “però”, l’accent és...",dièresi,diacrític desaparegut,obert,tancat,C,Però porta accent obert.,Material original
+B2-ACC-0415,B2,Accentuació i ortografia,hueco,Completa amb la forma correcta: ___ és molt important.,,,,,açò,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+B2-ACC-0416,B2,Accentuació i ortografia,hueco,Completa: Jo ___ vull participar.,,,,,també,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+B2-ACC-0417,B2,Accentuació i ortografia,hueco,Completa: No vinc ___ estic cansat.,,,,,perquè,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+B2-ACC-0418,B2,Accentuació i ortografia,hueco,Completa: Primer estudiarem i ___ descansarem.,,,,,després,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+B2-APO-0085,B2,Apostrofació i contraccions,test,Tria la forma més adequada.,el home,la home,l’home,lo home,C,El + mot començat per vocal o h: l’home.,Material original
+B2-APO-0086,B2,Apostrofació i contraccions,test,Tria la forma més adequada.,l’amiga,là amiga,la amiga,el amiga,A,La s’apostrofa davant vocal: l’amiga.,Material original
+B2-APO-0087,B2,Apostrofació i contraccions,test,Tria la forma més adequada.,la universitat,el universitat,l’universitat,là universitat,A,La no s’apostrofa davant i/u àtones.,Material original
+B2-COM-0294,B2,Comprensió escrita,test,"Text: L’Ajuntament ha anunciat que, a partir de setembre, ampliarà l’horari de la biblioteca municipal. La mesura respon a les peticions de l’alumnat, que demanava més temps d’estudi durant les vesprades. També s’habilitarà una sala silenciosa i es reforçarà el préstec digital.
+
+Quin és l’objectiu principal de la mesura?",Reduir el préstec de llibres,Ampliar l’horari de la biblioteca,Tancar la sala d’estudi,Eliminar el préstec digital,B,La primera frase dona la informació principal.,Material original
+B2-COM-0295,B2,Comprensió escrita,test,"Text: L’Ajuntament ha anunciat que, a partir de setembre, ampliarà l’horari de la biblioteca municipal. La mesura respon a les peticions de l’alumnat, que demanava més temps d’estudi durant les vesprades. També s’habilitarà una sala silenciosa i es reforçarà el préstec digital.
+
+Qui havia demanat més temps d’estudi?",La policia local,Les editorials,El personal de neteja,L’alumnat,D,El text diu que la mesura respon a les peticions de l’alumnat.,Material original
+B2-COM-0296,B2,Comprensió escrita,test,"Text: L’Ajuntament ha anunciat que, a partir de setembre, ampliarà l’horari de la biblioteca municipal. La mesura respon a les peticions de l’alumnat, que demanava més temps d’estudi durant les vesprades. També s’habilitarà una sala silenciosa i es reforçarà el préstec digital.
+
+Quin servei es reforçarà?",La cafeteria,El transport,El préstec digital,Les classes presencials,C,El text ho indica al final.,Material original
+B2-COM-0297,B2,Comprensió escrita,test,"Text: Una associació veïnal ha posat en marxa una campanya per reduir l’ús de plàstics d’un sol ús al mercat. La iniciativa inclou bosses reutilitzables, cartells informatius i tallers breus per a comerciants. Segons l’organització, el canvi serà gradual i voluntari.
+
+Què vol reduir la campanya?",El preu dels productes,El nombre de comerciants,L’ús de plàstics d’un sol ús,Els horaris del mercat,C,És la finalitat explícita del text.,Material original
+B2-COM-0298,B2,Comprensió escrita,test,"Text: Una associació veïnal ha posat en marxa una campanya per reduir l’ús de plàstics d’un sol ús al mercat. La iniciativa inclou bosses reutilitzables, cartells informatius i tallers breus per a comerciants. Segons l’organització, el canvi serà gradual i voluntari.
+
+Quina activitat s’ofereix als comerciants?",Tallers breus,Inspeccions obligatòries,Excursions,Cursos de cuina,A,El text esmenta tallers breus per a comerciants.,Material original
+B2-COM-0299,B2,Comprensió escrita,test,"Text: Una associació veïnal ha posat en marxa una campanya per reduir l’ús de plàstics d’un sol ús al mercat. La iniciativa inclou bosses reutilitzables, cartells informatius i tallers breus per a comerciants. Segons l’organització, el canvi serà gradual i voluntari.
+
+Com serà el canvi segons l’associació?",Car i sancionador,Gradual i voluntari,Immediat i obligatori,Secret i temporal,B,S’indica en l’última frase.,Material original
+B2-COR-0238,B2,Correcció d’errades,texto,Corregeix: “Tinc que estudiar per a l’examen”.,,,,,He d’estudiar per a l’examen.,Obligació: haver de + infinitiu.,Material original
+B2-COR-0239,B2,Correcció d’errades,texto,Corregeix: “Hi han moltes persones a la sala”.,,,,,Hi ha moltes persones a la sala.,"En registre formal, hi ha és invariable.",Material original
+B2-COR-0240,B2,Correcció d’errades,texto,Corregeix: “No m’he donat compte de l’error”.,,,,,No m’he adonat de l’error.,La forma genuïna és adonar-se.,Material original
+B2-COR-0241,B2,Correcció d’errades,texto,Corregeix: “Demà vaig a estudiar valencià”.,,,,,Demà estudiaré valencià.,"Per a futur, usa futur simple: estudiaré.",Material original
+B2-COR-0242,B2,Correcció d’errades,texto,Corregeix: “Porte dos anys treballant ací”.,,,,,Fa dos anys que treballe ací.,Construcció temporal: fa dos anys que...,Material original
+B2-COR-0243,B2,Correcció d’errades,texto,Corregeix: “La reunió començarà sobre les nou” si vols dir hora exacta.,,,,,La reunió començarà a les nou.,Per hora concreta: a les nou.,Material original
+B2-COR-0258,B2,Correcció d’errades,test,Corregeix: “Tinc que estudiar per a l’examen”.,Tinc que estudiar per a l’examen,He d’estudiar per a l’examen.,Tinc de estudiar per a l’examen.,Cap de les anteriors,B,Obligació: haver de + infinitiu.,Material original
+B2-COR-0259,B2,Correcció d’errades,test,Corregeix: “Hi han moltes persones a la sala”.,Hi ha moltes persones a la sala.,Hi han moltes persones a la sala,La frase és correcta tal com està.,No cal cap canvi.,A,"En registre formal, hi ha és invariable.",Material original
+B2-COR-0260,B2,Correcció d’errades,test,Corregeix: “No m’he donat compte de l’error”.,No m’he adonat de l’error.,No m’he donat compte de l’error,La frase és correcta tal com està.,No cal cap canvi.,A,La forma genuïna és adonar-se.,Material original
+B2-COR-0261,B2,Correcció d’errades,test,Corregeix: “Demà vaig a estudiar valencià”.,Demà estudiaré valencià.,Demà vaig a estudiar valencià,La frase és correcta tal com està.,No cal cap canvi.,A,"Per a futur, usa futur simple: estudiaré.",Material original
+B2-COR-0262,B2,Correcció d’errades,test,Corregeix: “Porte dos anys treballant ací”.,Fa dos anys que treballe ací.,Porte dos anys treballant ací,La frase és correcta tal com està.,No cal cap canvi.,A,Construcció temporal: fa dos anys que...,Material original
+B2-COR-0263,B2,Correcció d’errades,test,Corregeix: “La reunió començarà sobre les nou” si vols dir hora exacta.,La reunió començarà a les nou.,La reunió començarà sobre les nou,La frase és correcta tal com està.,No cal cap canvi.,A,Per hora concreta: a les nou.,Material original
+B2-EXP-0312,B2,Expressió escrita,redaccio,Escriu un correu formal de 120-150 paraules per demanar informació sobre un curs de valencià.,,,,,Resposta oberta,"Inclou salutació, motiu, preguntes concretes i comiat formal.",Material original
+B2-EXP-0313,B2,Expressió escrita,redaccio,Escriu una opinió breu sobre els avantatges de llegir en valencià.,,,,,Resposta oberta,"Organitza el text en introducció, dos arguments i conclusió.",Material original
+B2-EXP-0314,B2,Expressió escrita,redaccio,Redacta una reclamació perquè t’han cobrat una taxa incorrecta.,,,,,Resposta oberta,"Explica els fets, demana una solució i mantín un to formal.",Material original
+B2-EXP-0315,B2,Expressió escrita,redaccio,Descriu una activitat cultural del teu poble o ciutat.,,,,,Resposta oberta,Usa connectors temporals i vocabulari descriptiu.,Material original
+B2-EXP-0316,B2,Expressió escrita,redaccio,"Escriu un text de recomanació sobre una sèrie, llibre o podcast en valencià.",,,,,Resposta oberta,Justifica la recomanació amb exemples.,Material original
+B2-EXP-0328,B2,Expressió oral,oral,Parla durant dos minuts sobre com organitzes el teu temps d’estudi.,,,,,Resposta oberta,"Usa marcadors temporals: primer, després, finalment.",Material original
+B2-EXP-0329,B2,Expressió oral,oral,Explica els avantatges i inconvenients d’estudiar en línia.,,,,,Resposta oberta,Presenta almenys dos arguments per cada banda.,Material original
+B2-EXP-0330,B2,Expressió oral,oral,Descriu una experiència en què vas haver de resoldre un problema.,,,,,Resposta oberta,Ordena els fets i usa passat correctament.,Material original
+B2-FRA-0198,B2,Fraseologia,test,Tria la locució adequada.,de gom a gom,de pressa,a poc a poc,de sobte,C,“Poco a poco” és a poc a poc.,Material original
+B2-FRA-0199,B2,Fraseologia,test,Tria la locució adequada.,de gom a gom,a mitges,a cegues,buit,A,Vol dir ple del tot.,Material original
+B2-FRA-0200,B2,Fraseologia,test,Tria la locució adequada.,fer tard,fer ombra,criticar,fer costat,D,Fer costat és donar suport.,Material original
+B2-FRA-0201,B2,Fraseologia,test,Tria la locució adequada.,tot seguit sempre,poc a poc,a més,de sobte,D,De repente és de sobte.,Material original
+B2-LEX-0152,B2,Lèxic,test,Tria l’equivalent més adequat.,estalviar,endevinar,baixar,gastar,A,Ahorrar en valencià és estalviar.,Material original
+B2-LEX-0153,B2,Lèxic,test,Tria l’equivalent més adequat.,cantonada,vorera,acera,andana,B,Acera és vorera.,Material original
+B2-LEX-0154,B2,Lèxic,test,Tria l’equivalent més adequat.,bústia,segell,buzó,caixó,A,Buzón és bústia.,Material original
+B2-LEX-0155,B2,Lèxic,test,Tria l’equivalent més adequat.,sobre,segell,timbre,sello,B,Sello és segell.,Material original
+B2-LEX-0156,B2,Lèxic,test,Tria l’equivalent més adequat.,lloguer,loguer,llogaret,alquiler,A,Alquiler és lloguer.,Material original
+B2-LEX-0157,B2,Lèxic,test,Tria l’equivalent més adequat.,pols,fem,basura,brutícia només,B,Basura és fem.,Material original
+B2-LEX-0158,B2,Lèxic,test,Tria l’equivalent més adequat.,caminador,vianant,veí,peató,B,Peatón és vianant.,Material original
+B2-LEX-0159,B2,Lèxic,test,Tria l’equivalent més adequat.,aparcació,parking,parcatge,aparcament,D,Aparcamiento és aparcament.,Material original
+B2-LEX-0160,B2,Lèxic,test,Tria l’equivalent més adequat.,mida,tamany,tamaño,grandària sempre,A,Tamaño és mida; tamany és castellanisme en molts contextos.,Material original
+B2-LEX-0161,B2,Lèxic,test,Tria l’equivalent més adequat.,data,datació sempre,fecha,fetxa,A,Fecha és data.,Material original
+B2-LEX-0162,B2,Lèxic,test,Tria l’equivalent més adequat.,èxit,exit,succés sempre,éxit,A,Éxito és èxit.,Material original
+B2-LEX-0163,B2,Lèxic,test,Tria l’equivalent més adequat.,retraso,tardança sempre,atràs,retard,D,Retraso és retard.,Material original
+B2-LEX-0164,B2,Lèxic,test,Tria l’equivalent més adequat.,aïna,eina,herramienta,instrument sempre,B,Herramienta és eina.,Material original
+B2-LEX-0165,B2,Lèxic,test,Tria l’equivalent més adequat.,tarea,taula,tasca,faena només col·loquial,C,Tarea és tasca; faena també pot ser treball.,Material original
+B2-LEX-0166,B2,Lèxic,test,Tria l’equivalent més adequat.,enchufe,clavilla sempre,endoll,enxufe,C,Enchufe és endoll.,Material original
+B2-LEX-0167,B2,Lèxic,test,Tria l’equivalent més adequat.,vidre,espill exclusiu,espejo,mirall,D,Espejo és mirall o espill; ací l’opció normativa és mirall.,Material original
+B2-LEX-0168,B2,Lèxic,test,Tria l’equivalent més adequat.,cartel,rètol sempre,cartell,cartó,C,Cartel és cartell/rètol segons context.,Material original
+B2-LEX-0169,B2,Lèxic,test,Tria l’equivalent més adequat.,servei,serves,servicio,servici únicament,A,"Servicio és servei; servici també és valencià, però servei és estàndard general.",Material original
+B2-ORT-0044,B2,Ortografia,test,Quina opció està escrita correctament?,açò,asò,axò,aixo,A,Açò porta ce trencada.,Material original
+B2-ORT-0045,B2,Ortografia,test,Quina opció està escrita correctament?,adreça,adressa,adreçà,adreca,A,Adreça porta ce trencada.,Material original
+B2-ORT-0046,B2,Ortografia,test,Quina opció està escrita correctament?,peça,peca,peçà,pessa,A,Peça porta ce trencada.,Material original
+B2-ORT-0047,B2,Ortografia,test,Quina opció està escrita correctament?,plaçà,plaza,plassa,plaça,D,Plaça porta ce trencada.,Material original
+B2-ORT-0048,B2,Ortografia,test,Quina opció està escrita correctament?,forssa,força,forca,forçà,B,Força porta ce trencada.,Material original
+B2-ORT-0049,B2,Ortografia,test,Quina opció està escrita correctament?,llengua,lengua,llenga,llengüa,A,Llengua s’escriu amb ll inicial.,Material original
+B2-ORT-0050,B2,Ortografia,test,Quina opció està escrita correctament?,trevall,trebal,trebay,treball,D,Treball s’escriu amb b i ll final.,Material original
+B2-ORT-0051,B2,Ortografia,test,Quina opció està escrita correctament?,camviar,cambiar,canbiar,canviar,D,Canviar s’escriu amb v.,Material original
+B2-ORT-0052,B2,Ortografia,test,Quina opció està escrita correctament?,hivern,hibern,ivern,hivèrn,A,Hivern porta h inicial.,Material original
+B2-ORT-0053,B2,Ortografia,test,Quina opció està escrita correctament?,air,aïr,haïr,ahir,D,Ahir porta h intercalada.,Material original
+B2-ORT-0054,B2,Ortografia,test,Quina opció està escrita correctament?,orchatta,horxata,orxàta,orxata,D,Orxata no porta h inicial.,Material original
+B2-ORT-0055,B2,Ortografia,test,Quina opció està escrita correctament?,metxe,mege,metje,metge,D,Metge s’escriu amb tg.,Material original
+B2-ORT-0056,B2,Ortografia,test,Quina opció està escrita correctament?,platxa,placha,plaja,platja,D,Platja s’escriu amb tj.,Material original
+B2-ORT-0057,B2,Ortografia,test,Quina opció està escrita correctament?,cotxe,cotxa,cotge,coxe,A,Cotxe s’escriu amb tx.,Material original
+B2-ORT-0058,B2,Ortografia,test,Quina opció està escrita correctament?,despats,despaig,despatx,despach,C,Despatx acaba en -tx.,Material original
+B2-ORT-0059,B2,Ortografia,test,Quina opció està escrita correctament?,maix,maitx,maj,maig,D,Maig acaba en -ig.,Material original
+B2-ORT-0060,B2,Ortografia,test,Quina opció està escrita correctament?,roix,roig,roitx,roij,B,Roig acaba en -ig.,Material original
+B2-ORT-0061,B2,Ortografia,test,Quina opció està escrita correctament?,viatje,viaje,viatge,viache,C,Viatge s’escriu amb tg.,Material original
+B2-ORT-0400,B2,Ortografia,test,Quina opció està escrita correctament?,caza,caça,casa,cassa,C,Casa amb s sonora.,Material original
+B2-ORT-0401,B2,Ortografia,test,Quina opció està escrita correctament?,caça,cassa,casa,caza,A,Caça porta ç.,Material original
+B2-ORT-0402,B2,Ortografia,test,Quina opció està escrita correctament?,pasar,passar,pazar,paçar,B,Passar porta ss.,Material original
+B2-ORT-0403,B2,Ortografia,test,Quina opció està escrita correctament?,zero,sero,cero,çero,A,Zero s’escriu amb z.,Material original
+B2-ORT-0404,B2,Ortografia,test,Quina opció està escrita correctament?,sona,zonna,çona,zona,D,Zona s’escriu amb z.,Material original
+B2-ORT-0405,B2,Ortografia,test,Quina opció està escrita correctament?,qinze,quince,quinçe,quinze,D,Quinze porta z.,Material original
+B2-PRE-0230,B2,Preposicions,test,He comprat una llibreta ___ l’examen.,para,perquè,per,per a,D,Finalitat/destinació: per a.,Material original
+B2-PRE-0231,B2,Preposicions,test,"Ho he fet ___ tu, perquè m’ho vas demanar.",para,a causa a,per a,per,D,Causa o beneficiari segons context: per.,Material original
+B2-PRE-0232,B2,Preposicions,test,Anirem ___ tren fins a València.,amb,en,a,per,B,Amb mitjans de transport és habitual usar en: anar en tren.,Material original
+B2-PRE-0233,B2,Preposicions,test,Treballe ___ una oficina prop de l’estació.,a,en,per,amb,B,Per indicar lloc interior o àmbit físic usem en una oficina.,Material original
+B2-PRE-0234,B2,Preposicions,test,Aquest regal és ___ ma germana.,per,per a,amb,de,B,Per a expressa destinació o beneficiari.,Material original
+B2-PRO-0130,B2,Pronoms febles,test,Tria la substitució pronominal correcta.,El compre cada setmana.,Ho compre cada setmana.,En compre cada setmana.,Compre-lo cada setmana.,A,Substituïm “el pa” per el: El compre.,Material original
+B2-PRO-0131,B2,Pronoms febles,test,Tria la substitució pronominal correcta.,Li veig cada dia.,La veig cada dia.,Ho veig cada dia.,En veig cada dia.,B,Complement directe femení singular: la.,Material original
+B2-PRO-0132,B2,Pronoms febles,test,Tria la substitució pronominal correcta.,Li visite sovint.,Els visite sovint.,En visite sovint.,Les visite sovint.,B,Complement directe masculí plural: els.,Material original
+B2-PRO-0133,B2,Pronoms febles,test,Tria la substitució pronominal correcta.,N’he comprades.,Les he comprades.,Els he comprades.,Ho he comprades.,B,Complement directe femení plural: les.,Material original
+B2-PRO-0134,B2,Pronoms febles,test,Tria la substitució pronominal correcta.,Ho telefone cada vesprada.,La telefone cada vesprada.,En telefone cada vesprada.,Li telefone cada vesprada.,D,"Telefonar a algú: complement indirecte, li.",Material original
+B2-PRO-0135,B2,Pronoms febles,test,Tria la substitució pronominal correcta.,Ens espera a la porta.,Mos espera a la porta.,Nosaltres espera a la porta.,Es espera a la porta.,A,Forma estàndard: ens.,Material original
+B2-PRO-0136,B2,Pronoms febles,test,Tria la substitució pronominal correcta.,M’agrada molt.,Mi agrada molt.,Me agrada molt.,Em agrada molt.,A,"Davant vocal, m’.",Material original
+B2-PUN-0287,B2,Puntuació,test,Tria la puntuació correcta.,Maria vine ací.,"Maria, vine ací.","Maria vine, ací.",Maria; vine ací.,B,El vocatiu se separa amb coma.,Material original
+B2-PUN-0288,B2,Puntuació,test,Tria la puntuació correcta.,"No obstant això, cal revisar-ho.",No obstant això cal revisar-ho.,"No obstant, això cal revisar-ho.",No obstant això; cal revisar-ho.,A,Connector inicial seguit de coma.,Material original
+B2-PUN-0289,B2,Puntuació,test,Tria la puntuació correcta.,"Si, plou no eixirem.","Si plou, no eixirem.",Si plou; no eixirem.,Si plou no eixirem.,B,Subordinada condicional inicial amb coma.,Material original
+B2-REG-0278,B2,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,"Benvolguda senyora,","Ei, què tal?","Hola tia,","Bones, crack,",A,En una carta formal convé una salutació formal.,Material original
+B2-REG-0279,B2,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,Adeu i ja diràs,Ens veiem!,"Atentament,","Un beset,",C,Comiat formal habitual.,Material original
+B2-REG-0280,B2,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,A vore si em dius algo.,T’escric per demanar info.,Li escric per sol·licitar informació.,Vull saber coses.,C,Registre formal i precís.,Material original
+B2-SIN-0210,B2,Sintaxi i connectors,test,No he vingut ___ estava malalt.,doncs que,per a que,per que,perquè,D,Connector causal: perquè.,Material original
+B2-SIN-0211,B2,Sintaxi i connectors,test,"Ha plogut molt; ___, el partit s’ha ajornat.",per tant,mentre,sinó,encara que,A,Per tant introdueix conseqüència.,Material original
+B2-SIN-0212,B2,Sintaxi i connectors,test,"___ faça fred, eixirem a caminar.",així que no,doncs,encara que,per tal de,C,Encara que introdueix concessió.,Material original
+B2-SIN-0213,B2,Sintaxi i connectors,test,"El curs és útil; ___, és gratuït.",malgrat,sinó,si no,a més,D,A més afegeix informació.,Material original
+B2-SIN-0214,B2,Sintaxi i connectors,test,Llig el text ___ escoltes l’àudio.,malgrat,doncs,mentre,perquè,C,Mentre indica simultaneïtat.,Material original
+B2-SIN-0215,B2,Sintaxi i connectors,test,"No és dilluns, ___ dimarts.",sino,si no,però que,sinó,D,Sinó expressa oposició excloent.,Material original
+B2-SIN-0216,B2,Sintaxi i connectors,test,"___ estudies, no aprovaràs.",si no,però,doncs,sinó,A,Si no = condició negativa.,Material original
+B2-TRA-0337,B2,Transformació de frases,texto,Uneix amb “perquè”: Vaig arribar tard. Hi havia trànsit.,,,,,Vaig arribar tard perquè hi havia trànsit.,Perquè introdueix la causa.,Material original
+B2-TRA-0338,B2,Transformació de frases,texto,Uneix amb “si”: Estudia cada dia. Milloraràs.,,,,,"Si estudies cada dia, milloraràs.",La condició va amb si.,Material original
+B2-TRA-0339,B2,Transformació de frases,texto,Uneix amb “encara que”: Plou. Anirem a classe.,,,,,"Encara que ploga, anirem a classe.",Connector concessiu.,Material original
+B2-VER-0093,B2,Verbs,test,Jo ___ molta faena hui.,tindre,ting,tenc,tinc,D,Present d’indicatiu: jo tinc.,Material original
+B2-VER-0095,B2,Verbs,test,Ella ___ cansada.,està,siga,esta,estava,A,Present d’indicatiu: ella està.,Material original
+B2-VER-0096,B2,Verbs,test,Ahir ___ al mercat.,aní vaig,vaig a anar,vaig anar,he anat ahir,C,El passat perifràstic: vaig anar.,Material original
+B2-VER-0097,B2,Verbs,test,Hui ___ arròs al forn.,menjat he,menjí,he menjat,ha menjat,C,Perfet: he + participi.,Material original
+B2-VER-0098,B2,Verbs,test,Demà ___ prompte de casa.,isqué,eixiscé,eixiré,eixiria,C,Futur: eixiré.,Material original
+B2-VER-0099,B2,Verbs,test,"Quan era menut, ___ a escola a peu.",anaré,vaig,aní,anava,D,Imperfet: anava.,Material original
+B2-VER-0100,B2,Verbs,test,Cada estiu ___ al poble.,vinga,vingué,venia,vindria,C,Imperfet: venia.,Material original
+B2-VER-0101,B2,Verbs,test,Jo ___ prop del centre.,viu jo,visc,visque,vixc,B,Present: jo visc.,Material original
+B2-VER-0102,B2,Verbs,test,Jo ___ cada nit abans de dormir.,lligc,lligisc jo,llegisc,legeisc,C,Present: jo llegisc.,Material original
+B2-VER-0122,B2,Verbs,hueco,Jo ___ comprar el pa ahir.,,,,,vaig,Passat perifràstic: vaig comprar.,Material original
+B2-VER-0123,B2,Verbs,hueco,Nosaltres ___ acabat la faena.,,,,,hem,Perfet: hem acabat.,Material original
+B2-VER-0124,B2,Verbs,hueco,Abans les classes ___ més llargues.,,,,,eren,Imperfet del verb ser.,Material original
+B2-VOC-0345,B2,Vocabulari temàtic,test,Com diries “silla” en valencià?,poma,espill,cadira,matí,C,“silla” correspon a “cadira”.,Material original
+B2-VOC-0346,B2,Vocabulari temàtic,test,Com diries “mesa” en valencià?,forqueta,vesprada,faena,taula,D,“mesa” correspon a “taula”.,Material original
+B2-VOC-0347,B2,Vocabulari temàtic,test,Com diries “ventana” en valencià?,taula,finestra,germà,espill,B,“ventana” correspon a “finestra”.,Material original
+B2-VOC-0348,B2,Vocabulari temàtic,test,Com diries “cuchillo” en valencià?,poma,vesprada,ganivet,pluja,C,“cuchillo” correspon a “ganivet”.,Material original
+B2-VOC-0349,B2,Vocabulari temàtic,test,Com diries “cuchara” en valencià?,taula,ganivet,espill,cullera,D,“cuchara” correspon a “cullera”.,Material original
+B2-VOC-0350,B2,Vocabulari temàtic,test,Com diries “tenedor” en valencià?,forqueta,vesprada,pluja,xiquet,A,“tenedor” correspon a “forqueta”.,Material original
+B2-VOC-0351,B2,Vocabulari temàtic,test,Com diries “manzana” en valencià?,iaio,dacsa,poma,espill,C,“manzana” correspon a “poma”.,Material original
+B2-VOC-0352,B2,Vocabulari temàtic,test,Com diries “zanahoria” en valencià?,iaio,faena,carlota,cadira,C,“zanahoria” correspon a “carlota”.,Material original
+B2-VOC-0353,B2,Vocabulari temàtic,test,Com diries “maíz” en valencià?,espill,creïlla,xiquet,dacsa,D,“maíz” correspon a “dacsa”.,Material original
+B2-VOC-0354,B2,Vocabulari temàtic,test,Com diries “patata” en valencià?,creïlla,forqueta,cadira,iaio,A,“patata” correspon a “creïlla”.,Material original
+B2-VOC-0355,B2,Vocabulari temàtic,test,Com diries “tarde” en valencià?,pluja,germà,vesprada,carlota,C,“tarde” correspon a “vesprada”.,Material original
+B2-VOC-0356,B2,Vocabulari temàtic,test,Com diries “mañana” en valencià?,espill,matí,vesprada,germà,B,“mañana” correspon a “matí”.,Material original
+B2-VOC-0357,B2,Vocabulari temàtic,test,Com diries “tiempo meteorológico” en valencià?,oratge,ganivet,germà,cadira,A,“tiempo meteorológico” correspon a “oratge”.,Material original
+B2-VOC-0358,B2,Vocabulari temàtic,test,Com diries “nube” en valencià?,núvol,pluja,faena,creïlla,A,“nube” correspon a “núvol”.,Material original
+B2-VOC-0359,B2,Vocabulari temàtic,test,Com diries “lluvia” en valencià?,núvol,cadira,finestra,pluja,D,“lluvia” correspon a “pluja”.,Material original
+B2-VOC-0360,B2,Vocabulari temàtic,test,Com diries “trabajo” en valencià?,taula,xiquet,faena,germà,C,“trabajo” correspon a “faena”.,Material original
+B2-VOC-0361,B2,Vocabulari temàtic,test,Com diries “espejo” en valencià?,ganivet,espill,cadira,núvol,B,“espejo” correspon a “espill”.,Material original
+B2-VOC-0362,B2,Vocabulari temàtic,test,Com diries “niño” en valencià?,oratge,xiquet,taula,pluja,B,“niño” correspon a “xiquet”.,Material original
+B2-VOC-0363,B2,Vocabulari temàtic,test,Com diries “hermano” en valencià?,germà,poma,ganivet,oratge,A,“hermano” correspon a “germà”.,Material original
+B2-VOC-0364,B2,Vocabulari temàtic,test,Com diries “abuelo” en valencià?,xiquet,oratge,iaio,poma,C,“abuelo” correspon a “iaio”.,Material original
+C1-ACC-0013,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,ciencia,siència,ciéncia,ciència,D,Ciència porta accent per marcar la tonicitat i la e oberta.,Material original
+C1-ACC-0014,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,conciencia,consciencia,consciéncia,consciència,D,Consciència porta accent obert.,Material original
+C1-ACC-0015,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,pàciencia,paciencia,paciéncia,paciència,D,Paciència porta accent obert.,Material original
+C1-ACC-0016,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,questió,qüestió,qüestio,cuestió,B,La u de qüe es pronuncia i porta dièresi.,Material original
+C1-ACC-0017,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,linguística,llingüística,lingüística,lingüístíca,C,La u de lingüística es pronuncia i porta dièresi.,Material original
+C1-ACC-0018,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,ambigüitat,ambiguitat,ambigüedat,ambigüetàt,A,La u de güi es pronuncia i porta dièresi.,Material original
+C1-ACC-0019,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,raim,raím,ràim,raïm,D,Raïm porta dièresi per trencar el diftong.,Material original
+C1-ACC-0020,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,veina,veína,veïna,vèina,C,Veïna porta dièresi per indicar hiat.,Material original
+C1-ACC-0021,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,agraïà,agraïa,agraia,agraía,B,Agraïa porta dièresi per marcar el hiat.,Material original
+C1-ACC-0022,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,conduia,conduía,condüia,conduïa,D,Conduïa porta dièresi en la i.,Material original
+C1-ACC-0023,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,països,paisos,paísos,paíssos,A,Països porta dièresi perquè la i forma hiat.,Material original
+C1-ACC-0024,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,diùrn,díurn,diürn,diurn,C,Diürn porta dièresi.,Material original
+C1-ACC-0025,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,suís,súis,suïs,suis,A,Suís porta accent en la i tònica.,Material original
+C1-ACC-0026,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,heroina,héroina,heroína,heroïna,D,Heroïna porta dièresi.,Material original
+C1-ACC-0027,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,café,càfe,cafè,cafe,A,En valencià és habitual la forma café amb accent tancat.,Material original
+C1-ACC-0028,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,anglès,ángles,anglés,angles,C,En valencià estàndard: anglés.,Material original
+C1-ACC-0029,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,interés,ínteres,interes,interès,A,En valencià estàndard: interés.,Material original
+C1-ACC-0030,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,còneixer,conéixer,conèixer,coneixer,B,En valencià estàndard: conéixer.,Material original
+C1-ACC-0031,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,crèixer,creixer,créixer,creïxer,C,En valencià estàndard: créixer.,Material original
+C1-ACC-0040,C1,Accentuació i dièresi,test,El signe de “veïna” indica...,guionet,accent tancat,dièresi,accent obert,C,La dièresi marca que la i es pronuncia separada.,Material original
+C1-ACC-0041,C1,Accentuació i dièresi,test,Per què “país” no porta dièresi?,no porta dièresi perquè l’accent ja marca el hiat,perquè és monosíl·laba,perquè és una paraula plana,perquè no té hiat,A,"Quan hi ha accent gràfic, no cal dièresi.",Material original
+C1-ACC-0042,C1,Accentuació i dièresi,test,"En “a més a més”, la paraula amb accent és...",cap,darrere,més,a,B,Més porta accent diacrític.,Material original
+C1-ACC-0419,C1,Accentuació i ortografia,hueco,Completa: És una ___ complicada.,,,,,qüestió,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+C1-ACC-0420,C1,Accentuació i ortografia,hueco,Completa: M’agrada el ___ moscatell.,,,,,raïm,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+C1-ACC-0421,C1,Accentuació i ortografia,hueco,Completa: La meua ___ és professora.,,,,,veïna,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+C1-ACC-0422,C1,Accentuació i ortografia,hueco,Completa: Hem de ___ amb l’equip.,,,,,col·laborar,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+C1-ACC-0423,C1,Accentuació i ortografia,hueco,Completa: Presenta la ___ dins del termini.,,,,,sol·licitud,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+C1-APO-0088,C1,Apostrofació i contraccions,test,Tria la forma més adequada.,là història,l’història,la història,el història,C,La no s’apostrofa davant hi àtona.,Material original
+C1-APO-0089,C1,Apostrofació i contraccions,test,Tria la forma més adequada.,la Índia,el Índia,l’Índia,là Índia,C,La s’apostrofa davant i tònica.,Material original
+C1-APO-0090,C1,Apostrofació i contraccions,test,Tria la forma més adequada.,de hora,d’hora,d hora,dora,B,De s’apostrofa davant vocal o h.,Material original
+C1-APO-0091,C1,Apostrofació i contraccions,test,Tria la forma més adequada.,a la escola,a l’escola,al escola,a lescola,B,A + el/la apostrofat segons el cas: a l’escola.,Material original
+C1-COM-0300,C1,Comprensió escrita,test,"Text: La digitalització de l’administració ha simplificat molts tràmits, però també ha evidenciat desigualtats d’accés. Les persones que no disposen de competències digitals poden trobar dificultats per presentar sol·licituds, demanar cites o consultar notificacions. Per això, diverses oficines han creat punts d’acompanyament presencial.
+
+Quina idea resumeix millor el text?",Les notificacions ja no són necessàries,La digitalització elimina tots els problemes,"La digitalització facilita tràmits, però pot excloure persones",Les oficines presencials desapareixeran,C,El text presenta avantatges i límits.,Material original
+C1-COM-0301,C1,Comprensió escrita,test,"Text: La digitalització de l’administració ha simplificat molts tràmits, però també ha evidenciat desigualtats d’accés. Les persones que no disposen de competències digitals poden trobar dificultats per presentar sol·licituds, demanar cites o consultar notificacions. Per això, diverses oficines han creat punts d’acompanyament presencial.
+
+Què poden tindre dificultats a fer algunes persones?",Fer esport,Votar per correu,Presentar sol·licituds,Comprar llibres,C,És un dels exemples donats.,Material original
+C1-COM-0302,C1,Comprensió escrita,test,"Text: La digitalització de l’administració ha simplificat molts tràmits, però també ha evidenciat desigualtats d’accés. Les persones que no disposen de competències digitals poden trobar dificultats per presentar sol·licituds, demanar cites o consultar notificacions. Per això, diverses oficines han creat punts d’acompanyament presencial.
+
+Per què es creen punts d’acompanyament?",Per vendre equips informàtics,Per substituir internet,Per reduir personal,Per ajudar qui té dificultats digitals,D,La relació causal és clara en l’última frase.,Material original
+C1-COM-0303,C1,Comprensió escrita,test,"Text: L’informe no qüestiona la necessitat de millorar el transport públic, sinó la manca d’indicadors per avaluar-ne l’eficàcia. Recomana definir objectius mesurables, publicar dades periòdiques i incorporar l’opinió de les persones usuàries abans d’ampliar el servei.
+
+Què critica l’informe?",L’opinió de les persones usuàries,La publicació de dades,La manca d’indicadors d’avaluació,La millora del transport públic,C,"El text diu que no qüestiona la necessitat, sinó la manca d’indicadors.",Material original
+C1-COM-0304,C1,Comprensió escrita,test,"Text: L’informe no qüestiona la necessitat de millorar el transport públic, sinó la manca d’indicadors per avaluar-ne l’eficàcia. Recomana definir objectius mesurables, publicar dades periòdiques i incorporar l’opinió de les persones usuàries abans d’ampliar el servei.
+
+Què recomana fer abans d’ampliar el servei?",Reduir dades,Eliminar línies,Tancar estacions,Incorporar l’opinió de les persones usuàries,D,És una recomanació explícita.,Material original
+C1-COM-0305,C1,Comprensió escrita,test,"Text: L’informe no qüestiona la necessitat de millorar el transport públic, sinó la manca d’indicadors per avaluar-ne l’eficàcia. Recomana definir objectius mesurables, publicar dades periòdiques i incorporar l’opinió de les persones usuàries abans d’ampliar el servei.
+
+Quin sentit té “sinó” en el text?",Expressa temps,Afegeix una causa,Marca una condició,Introdueix una alternativa oposada,D,"No qüestiona X, sinó Y.",Material original
+C1-COR-0244,C1,Correcció d’errades,texto,"Corregeix: “En quant a la matrícula, cal revisar el termini”.",,,,,"Pel que fa a la matrícula, cal revisar el termini.",Forma correcta: quant a / pel que fa a.,Material original
+C1-COR-0245,C1,Correcció d’errades,texto,"Corregeix: “Degut a la pluja, s’ha suspés la prova”.",,,,,"A causa de la pluja, s’ha suspés la prova.","En registre formal, a causa de és més segur.",Material original
+C1-COR-0246,C1,Correcció d’errades,texto,"Corregeix: “D’acord a les bases, cal presentar el DNI”.",,,,,"D’acord amb les bases, cal presentar el DNI.",Construcció: d’acord amb.,Material original
+C1-COR-0247,C1,Correcció d’errades,texto,"Corregeix: “En relació a la sol·licitud, falta una signatura”.",,,,,"En relació amb la sol·licitud, falta una signatura.",Construcció formal: en relació amb.,Material original
+C1-COR-0248,C1,Correcció d’errades,texto,Corregeix: “Hi ha que presentar la documentació”.,,,,,Cal que presentes la documentació.,Necessitat: cal que / cal + infinitiu.,Material original
+C1-COR-0249,C1,Correcció d’errades,texto,Corregeix: “No sé que vols dir” quan és interrogatiu indirecte.,,,,,No sé què vols dir.,Què interrogatiu porta accent.,Material original
+C1-COR-0250,C1,Correcció d’errades,texto,Corregeix: “La persona que li vaig telefonar no respon”.,,,,,La persona a qui vaig telefonar no respon.,Amb telefonar: a qui.,Material original
+C1-COR-0251,C1,Correcció d’errades,texto,Corregeix: “El document el qual he llegit és clar”.,,,,,El document que he llegit és clar.,Per a relatiu especificatiu simple: que.,Material original
+C1-COR-0252,C1,Correcció d’errades,texto,Corregeix: “Vaig veure a Maria i la vaig donar el llibre”.,,,,,Vaig veure Maria i li vaig donar el llibre.,Donar a algú: li.,Material original
+C1-COR-0264,C1,Correcció d’errades,test,"Corregeix: “En quant a la matrícula, cal revisar el termini”.","Pel que fa a la matrícula, cal revisar el termini.","En quant a la matrícula, cal revisar el termini",La frase és correcta tal com està.,No cal cap canvi.,A,Forma correcta: quant a / pel que fa a.,Material original
+C1-COR-0265,C1,Correcció d’errades,test,"Corregeix: “Degut a la pluja, s’ha suspés la prova”.","A causa de la pluja, s’ha suspés la prova.","Degut a la pluja, s’ha suspés la prova",La frase és correcta tal com està.,No cal cap canvi.,A,"En registre formal, a causa de és més segur.",Material original
+C1-COR-0266,C1,Correcció d’errades,test,"Corregeix: “D’acord a les bases, cal presentar el DNI”.","D’acord amb les bases, cal presentar el DNI.","D’acord a les bases, cal presentar el DNI",La frase és correcta tal com està.,No cal cap canvi.,A,Construcció: d’acord amb.,Material original
+C1-COR-0267,C1,Correcció d’errades,test,"Corregeix: “En relació a la sol·licitud, falta una signatura”.","En relació amb la sol·licitud, falta una signatura.","En relació a la sol·licitud, falta una signatura",La frase és correcta tal com està.,No cal cap canvi.,A,Construcció formal: en relació amb.,Material original
+C1-COR-0268,C1,Correcció d’errades,test,Corregeix: “Hi ha que presentar la documentació”.,Hi ha que presentar la documentació,Hi ha que presentes la documentació.,Cap de les anteriors,Cal que presentes la documentació.,D,Necessitat: cal que / cal + infinitiu.,Material original
+C1-COR-0269,C1,Correcció d’errades,test,Corregeix: “No sé que vols dir” quan és interrogatiu indirecte.,No sé què vols dir.,No sé que vols dir,La frase és correcta tal com està.,No cal cap canvi.,A,Què interrogatiu porta accent.,Material original
+C1-COR-0270,C1,Correcció d’errades,test,Corregeix: “La persona que li vaig telefonar no respon”.,La persona a qui vaig telefonar no respon.,La persona que li vaig telefonar no respon,La frase és correcta tal com està.,No cal cap canvi.,A,Amb telefonar: a qui.,Material original
+C1-COR-0271,C1,Correcció d’errades,test,Corregeix: “El document el qual he llegit és clar”.,El document que he llegit és clar.,El document el qual he llegit és clar,La frase és correcta tal com està.,No cal cap canvi.,A,Per a relatiu especificatiu simple: que.,Material original
+C1-COR-0272,C1,Correcció d’errades,test,Corregeix: “Vaig veure a Maria i la vaig donar el llibre”.,Vaig veure Maria i li vaig donar el llibre.,Vaig veure a Maria i la vaig donar el llibre,La frase és correcta tal com està.,No cal cap canvi.,A,Donar a algú: li.,Material original
+C1-EXP-0317,C1,Expressió escrita,redaccio,Redacta una carta formal de 180-220 paraules per sol·licitar la revisió d’una nota.,,,,,Resposta oberta,"Ha de ser clara, respectuosa i argumentada.",Material original
+C1-EXP-0318,C1,Expressió escrita,redaccio,Escriu un article d’opinió sobre la digitalització de l’administració.,,,,,Resposta oberta,"Inclou tesi, arguments, contraargument i conclusió.",Material original
+C1-EXP-0319,C1,Expressió escrita,redaccio,Redacta un informe breu sobre mesures per fomentar el valencià en un centre de treball.,,,,,Resposta oberta,"Usa registre formal, apartats i propostes concretes.",Material original
+C1-EXP-0320,C1,Expressió escrita,redaccio,Escriu una queixa formal per retards reiterats en un servei públic.,,,,,Resposta oberta,"Distingix fets, conseqüències i petició final.",Material original
+C1-EXP-0321,C1,Expressió escrita,redaccio,Resumeix i valora una notícia d’actualitat sense copiar-ne frases.,,,,,Resposta oberta,Demostra capacitat de síntesi i valoració pròpia.,Material original
+C1-EXP-0322,C1,Expressió escrita,redaccio,Redacta una entrada de blog sobre hàbits d’estudi per a preparar oposicions.,,,,,Resposta oberta,"To divulgatiu, connectors i exemples pràctics.",Material original
+C1-EXP-0323,C1,Expressió escrita,redaccio,Escriu una resposta formal a una persona que demana informació incompleta.,,,,,Resposta oberta,Demana aclariments amb cortesia i precisió.,Material original
+C1-EXP-0331,C1,Expressió oral,oral,Defensa una proposta per augmentar l’ús social del valencià.,,,,,Resposta oberta,"Inclou diagnòstic, mesures i possibles dificultats.",Material original
+C1-EXP-0332,C1,Expressió oral,oral,Compara la formació presencial i la formació en línia en l’àmbit laboral.,,,,,Resposta oberta,Usa connectors comparatius i concessius.,Material original
+C1-EXP-0333,C1,Expressió oral,oral,Exposa la teua opinió sobre la conciliació laboral i familiar.,,,,,Resposta oberta,Evita generalitzacions i aporta exemples.,Material original
+C1-EXP-0334,C1,Expressió oral,oral,Resumeix oralment un text informatiu i dona’n una valoració.,,,,,Resposta oberta,Diferencia informació del text i opinió personal.,Material original
+C1-FRA-0202,C1,Fraseologia,test,Tria la locució adequada.,hui de matí,de tant en tant,abans-d’ahir,a hores d’ara,D,A hores d’ara vol dir en aquest moment.,Material original
+C1-FRA-0203,C1,Fraseologia,test,Tria la locució adequada.,de cap manera,exactament,a cau d’orella,si fa no fa,D,Vol dir aproximadament.,Material original
+C1-FRA-0204,C1,Fraseologia,test,Tria la locució adequada.,sempre,mai,a la força,de tant en tant,D,De vez en cuando és de tant en tant.,Material original
+C1-FRA-0205,C1,Fraseologia,test,Tria la locució adequada.,a medio plazo,a mitjan termini,a termini mig,al mig plaç,B,A medio plazo: a mitjan termini.,Material original
+C1-FRA-0206,C1,Fraseologia,test,Tria la locució adequada.,en quan a,en quant a,amb lo que fa a,pel que fa a,D,Pel que fa a és adequat en registre formal.,Material original
+C1-LEX-0170,C1,Lèxic,test,Tria l’equivalent més adequat.,desenrotllar sempre,desenvolupar,desarrotllar,desarrollar,B,Desarrollar és desenvolupar/desenrotllar; desenvolupar és forma general.,Material original
+C1-LEX-0171,C1,Lèxic,test,Tria l’equivalent més adequat.,enterar-se,assabentar-se,entendre’s,donar-se compte,B,Enterarse és assabentar-se.,Material original
+C1-LEX-0172,C1,Lèxic,test,Tria l’equivalent més adequat.,comptar-se,adonar-se,donar-se compte,fer-se conte,B,Adonar-se és la forma genuïna.,Material original
+C1-LEX-0173,C1,Lèxic,test,Tria l’equivalent més adequat.,netejar sempre,esborrar,borrar,borronar,B,Borrar és esborrar.,Material original
+C1-LEX-0174,C1,Lèxic,test,Tria l’equivalent més adequat.,archiu,archivo,arxiu,fitxer sempre,C,Archivo és arxiu; fitxer en informàtica.,Material original
+C1-LEX-0175,C1,Lèxic,test,Tria l’equivalent més adequat.,plaç,plaça,plazo,termini,D,Plazo és termini.,Material original
+C1-LEX-0176,C1,Lèxic,test,Tria l’equivalent més adequat.,medi sempre,mitjà,mig sempre,medio,B,Medio de comunicación és mitjà.,Material original
+C1-LEX-0177,C1,Lèxic,test,Tria l’equivalent més adequat.,medició,mida sempre,medida,mesura,D,Medida pot ser mesura; mida és dimensions.,Material original
+C1-LEX-0178,C1,Lèxic,test,Tria l’equivalent més adequat.,anar-se’n,adreçar-se,endressar-se,dirigirse,B,Dirigirse a alguien és adreçar-se.,Material original
+C1-LEX-0179,C1,Lèxic,test,Tria l’equivalent més adequat.,rellenar estàndard,rellenar,emplenar,plenar únicament,C,Rellenar un formulari és emplenar.,Material original
+C1-LEX-0180,C1,Lèxic,test,Tria l’equivalent més adequat.,donar només,liberar sempre,entregar,lliurar,D,Entregar formalment és lliurar.,Material original
+C1-LEX-0181,C1,Lèxic,test,Tria l’equivalent més adequat.,disfrutar,gaudir,gojar sempre,fruir únicament,B,Disfrutar és gaudir.,Material original
+C1-LEX-0182,C1,Lèxic,test,Tria l’equivalent més adequat.,ajornament,emplaçament,aplazamiento,retardament,A,Aplazar és ajornar; ajornament.,Material original
+C1-LEX-0183,C1,Lèxic,test,Tria l’equivalent més adequat.,correcció sempre,enmienda,menda,esmena,D,Enmienda és esmena.,Material original
+C1-LEX-0184,C1,Lèxic,test,Tria l’equivalent més adequat.,gastament,gasto,costa,despesa,D,Gasto és despesa.,Material original
+C1-LEX-0185,C1,Lèxic,test,Tria l’equivalent més adequat.,entrada sempre,ingrés,ingreso,ingrésse,B,Ingreso econòmic és ingrés.,Material original
+C1-LEX-0186,C1,Lèxic,test,Tria l’equivalent més adequat.,recorso,recurso,ressort,recurs,D,Recurso és recurs.,Material original
+C1-LEX-0187,C1,Lèxic,test,Tria l’equivalent més adequat.,alegació,alegación,al·legació,allegació,C,Al·legació porta ela geminada.,Material original
+C1-ORT-0062,C1,Ortografia,test,Quina opció està escrita correctament?,rellotge,reloigge,relotge,rellotje,A,Rellotge porta ll i tg.,Material original
+C1-ORT-0063,C1,Ortografia,test,Quina opció està escrita correctament?,juzgat,jutjat,jutgat,jujat,B,Jutjat porta tj.,Material original
+C1-ORT-0064,C1,Ortografia,test,Quina opció està escrita correctament?,desitjar,desidjar,desitxar,desijar,A,Desitjar porta tj.,Material original
+C1-ORT-0065,C1,Ortografia,test,Quina opció està escrita correctament?,mitxà,mijà,mitjà,migjà,C,Mitjà porta tj.,Material original
+C1-ORT-0066,C1,Ortografia,test,Quina opció està escrita correctament?,col-laborar,col·laborar,colaborar,col.laborar,B,La ela geminada s’escriu amb punt volat.,Material original
+C1-ORT-0067,C1,Ortografia,test,Quina opció està escrita correctament?,ilegal,il-legal,il·legal,il.legal,C,Il·legal porta ela geminada.,Material original
+C1-ORT-0068,C1,Ortografia,test,Quina opció està escrita correctament?,sol-licitar,sol·licitar,solicitar,sol.licitar,B,Sol·licitar porta ela geminada.,Material original
+C1-ORT-0069,C1,Ortografia,test,Quina opció està escrita correctament?,exel·lent,excel·lent,excelent,exellent,B,Excel·lent porta x i ela geminada.,Material original
+C1-ORT-0070,C1,Ortografia,test,Quina opció està escrita correctament?,paraŀlel,paralel,parallel,paral·lel,D,Paral·lel porta ela geminada.,Material original
+C1-ORT-0071,C1,Ortografia,test,Quina opció està escrita correctament?,al·lérgia,al·lèrgia,alergia,allèrgia,B,Al·lèrgia porta ela geminada.,Material original
+C1-ORT-0072,C1,Ortografia,test,Quina opció està escrita correctament?,assumte,asumpte,asumte,assumpte,D,Assumpte porta ss i mp.,Material original
+C1-ORT-0073,C1,Ortografia,test,Quina opció està escrita correctament?,pressupostt,presupost,pressupost,presupuest,C,Pressupost porta ss.,Material original
+C1-ORT-0074,C1,Ortografia,test,Quina opció està escrita correctament?,escisió,excisió,escició,escissió,D,Escissió porta ss.,Material original
+C1-ORT-0075,C1,Ortografia,test,Quina opció està escrita correctament?,immens,immènç,inmens,imens,A,Immens porta mm.,Material original
+C1-ORT-0076,C1,Ortografia,test,Quina opció està escrita correctament?,connexió,connexiò,connecció,conexió,A,Connexió porta nn i x.,Material original
+C1-ORT-0077,C1,Ortografia,test,Quina opció està escrita correctament?,anex,ànnex,annex,annexe,C,Annex porta nn.,Material original
+C1-ORT-0406,C1,Ortografia,test,Quina opció està escrita correctament?,ecsamen,egsamen,exàmen,examen,D,Examen no porta accent i s’escriu amb x.,Material original
+C1-ORT-0407,C1,Ortografia,test,Quina opció està escrita correctament?,ejemple,egemple,exemle,exemple,D,Exemple amb x.,Material original
+C1-ORT-0408,C1,Ortografia,test,Quina opció està escrita correctament?,exigir,esigir,exijir,egigir,A,Exigir amb x i g.,Material original
+C1-ORT-0409,C1,Ortografia,test,Quina opció està escrita correctament?,egzistir,esistir,ecsistir,existir,D,Existir amb x.,Material original
+C1-ORT-0410,C1,Ortografia,test,Quina opció està escrita correctament?,xarxa,La frase és correcta tal com està.,No cal cap canvi.,No és una opció adequada.,A,Xarxa amb x inicial.,Material original
+C1-ORT-0411,C1,Ortografia,test,Quina opció està escrita correctament?,baixàr,bachar,baijar,baixar,D,Baixar amb ix.,Material original
+C1-ORT-0412,C1,Ortografia,test,Quina opció està escrita correctament?,deijar,deixàr,dexar,deixar,D,Deixar amb ix.,Material original
+C1-ORT-0413,C1,Ortografia,test,Quina opció està escrita correctament?,mateix,mateig,matèix,mateixx,A,Mateix amb ix.,Material original
+C1-PRE-0232,C1,Preposicions,test,Aquest document és ___ les persones aspirants.,per a,per,amb,cap,A,Destinació: per a.,Material original
+C1-PRE-0233,C1,Preposicions,test,El carrer va ser tallat ___ la policia.,per,per a,de,amb,A,Complement agent: per.,Material original
+C1-PRE-0234,C1,Preposicions,test,Visc ___ València.,cap a de,per,en,a,D,Amb noms de ciutat: a.,Material original
+C1-PRE-0235,C1,Preposicions,test,Treballe ___ una empresa pública.,de,per,a,en,D,En molts contexts locatius no puntuals: en.,Material original
+C1-PRO-0137,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Els he comprat tres.,Ho he comprat tres.,He comprat tres-ne.,N’he comprat tres.,D,Amb quantitat i de + nom: en.,Material original
+C1-PRO-0138,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Vaig-hi cada estiu.,Hi vaig cada estiu.,En vaig cada estiu.,Ho vaig cada estiu.,B,Complement de lloc introduït per a/en: hi.,Material original
+C1-PRO-0139,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,El sé perfectament.,En sé perfectament.,Ho sé perfectament.,Li sé perfectament.,C,Una oració o idea sencera se substitueix per ho.,Material original
+C1-PRO-0140,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,No li parle mai.,No ho parle mai.,No en parle mai.,No el parle mai.,C,Parlar de + tema: en.,Material original
+C1-PRO-0141,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Dona-la el rebut.,Dona’n el rebut.,Dona-ho el rebut.,Dona-li el rebut.,D,A ell/ella: li.,Material original
+C1-PRO-0142,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Porta-ls demà.,Porta-les demà.,Els porta demà.,Porta’ls demà.,D,"Darrere imperatiu afirmatiu, pronom enclític: porta’ls.",Material original
+C1-PRO-0143,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,No portes-los demà.,No porta’ls demà.,No els portes demà.,No les portes demà.,C,"En negació, el pronom va davant del verb.",Material original
+C1-PRO-0144,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Vaig comprar dos-ne.,Vaig comprar-ne dos.,Vaig comprar-los dos.,Vaig comprar-ho dos.,B,Infinitiu + en: comprar-ne.,Material original
+C1-PRO-0145,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Vull la veure.,Vull veure’n.,Vull veure-la.,Vull veure-li.,C,"Amb infinitiu, el pronom pot anar darrere: veure-la.",Material original
+C1-PRO-0146,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Ho he vist a ell.,L’he vist.,Li he vist.,El he vist.,B,El pronom el s’apostrofa davant h: l’he.,Material original
+C1-PRO-0147,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Ho m’he oblidat.,M’he oblidat d’això.,Me he n’oblidat.,Me n’he oblidat.,D,Oblidar-se de: en; combinació me n’.,Material original
+C1-PUN-0290,C1,Puntuació,test,Tria la puntuació correcta.,El document que ja està signat s’enviarà demà.,El document; que ja està signat; s’enviarà demà.,"El document que, ja està signat, s’enviarà demà.","El document, que ja està signat, s’enviarà demà.",D,Incís explicatiu entre comes.,Material original
+C1-PUN-0291,C1,Puntuació,test,Tria la puntuació correcta.,A més cal presentar una còpia.,"A més, cal presentar una còpia.",A més; cal presentar una còpia.,"A, més cal presentar una còpia.",B,Connector inicial amb coma.,Material original
+C1-PUN-0292,C1,Puntuació,test,Tria la puntuació correcta.,El termini acaba demà: per tant convé inscriure-s’hi hui.,"El termini acaba demà, per tant convé inscriure-s’hi hui.",El termini acaba demà per tant convé inscriure-s’hi hui.,"El termini acaba demà; per tant, convé inscriure-s’hi hui.",D,El punt i coma separa oracions relacionades; per tant porta coma.,Material original
+C1-REG-0281,C1,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,Necessite que em feu cas ja.,A vore si ho arregleu.,Sol·licite que es revise la meua inscripció.,Vull que mireu lo meu.,C,Registre administratiu formal.,Material original
+C1-REG-0282,C1,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,Et passe papers.,Vos envie lo que tocava.,Ací va tot.,Adjunte la documentació requerida.,D,Fórmula formal per a correu o instància.,Material original
+C1-REG-0283,C1,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,Ja em dius algo.,"Si això, parlem.",Reste a la seua disposició per a qualsevol aclariment.,"Qualsevol cosa, pega’m un toc.",C,Comiat formal adequat.,Material original
+C1-SIN-0217,C1,Sintaxi i connectors,test,"És una proposta interessant; ___, cal revisar-ne el cost.",tanmateix,aleshores que,degut que,per a que,A,Tanmateix equival a no obstant això.,Material original
+C1-SIN-0218,C1,Sintaxi i connectors,test,"S’ha aprovat el pressupost; ___, s’ha creat una comissió de seguiment.",ja que sí,així mateix,sinó mateix,en tant que no,B,Així mateix afegeix informació en registre formal.,Material original
+C1-SIN-0219,C1,Sintaxi i connectors,test,"___ no hi ha quòrum, s’ajorna la sessió.",ja que de,a què,atés que,en base a que,C,Atés que introdueix causa formal.,Material original
+C1-SIN-0220,C1,Sintaxi i connectors,test,Hem preparat materials ___ facilitar l’estudi.,a fi de que de,per tal de,per a que,amb el fi que de,B,Per tal de + infinitiu expressa finalitat.,Material original
+C1-SIN-0221,C1,Sintaxi i connectors,test,"___ havia estudiat, es va posar nerviós.",malgrat que,mal que de,tot i de que,encara de que,A,Malgrat que és concessiu.,Material original
+C1-SIN-0222,C1,Sintaxi i connectors,test,"___ les taxes, encara no s’han publicat.",amb quant a,en quan a,en quant a,quant a,D,Quant a és la forma correcta.,Material original
+C1-SIN-0223,C1,Sintaxi i connectors,test,La prova s’ha suspés ___ la pluja.,donat a,a causa de,per culpa que de,degut a,B,A causa de és una forma segura en registre formal.,Material original
+C1-SIN-0224,C1,Sintaxi i connectors,test,"___ la convocatòria, cal llegir les bases.",en relació amb,amb relació de,en relació a,relacionat a,A,En relació amb és una construcció formal adequada.,Material original
+C1-SIN-0225,C1,Sintaxi i connectors,test,"___ les instruccions, cal signar el full.",d’acord a,d’acord amb,acord amb de,d’acorde a,B,D’acord amb és la forma normativa.,Material original
+C1-TRA-0340,C1,Transformació de frases,texto,"Reformula amb “malgrat que”: El termini és curt, però presentarem la sol·licitud.",,,,,"Malgrat que el termini és curt, presentarem la sol·licitud.",Malgrat que introdueix concessió.,Material original
+C1-TRA-0341,C1,Transformació de frases,texto,Reformula amb “com que”: No hi havia places; em vaig inscriure en la llista d’espera.,,,,,"Com que no hi havia places, em vaig inscriure en la llista d’espera.",Com que introdueix causa inicial.,Material original
+C1-TRA-0342,C1,Transformació de frases,texto,Reformula amb “per tal de”: S’ampliarà l’horari per millorar el servei.,,,,,"Per tal de millorar el servei, s’ampliarà l’horari.",Per tal de + infinitiu expressa finalitat.,Material original
+C1-VER-0103,C1,Verbs,test,"Si jo ___ més temps, acabaria el treball.",tindré,tinc,tinguera,tindria,C,Condicional hipotètica: imperfet de subjuntiu.,Material original
+C1-VER-0104,C1,Verbs,test,"Si ell ___ vindre, ens ajudaria.",poguera,puga,puc,podria,A,Imperfet de subjuntiu: poguera.,Material original
+C1-VER-0105,C1,Verbs,test,"Si tu ___ més exercici, et trobaries millor.",faig,faça,fera,faria,C,Imperfet de subjuntiu: fera.,Material original
+C1-VER-0106,C1,Verbs,test,"Si ella ___ a la reunió, entendria el problema.",aniria,vaja,vaig,anara,D,Imperfet de subjuntiu: anara.,Material original
+C1-VER-0107,C1,Verbs,test,"Si el tècnic ___ hui, ho revisaria.",vinguera,vindria,vinga,ve,A,Imperfet de subjuntiu: vinguera.,Material original
+C1-VER-0108,C1,Verbs,test,És important que ell ___ puntual.,estiga,siga,fora,és,B,Present de subjuntiu del verb ser: siga.,Material original
+C1-VER-0109,C1,Verbs,test,Cal que la porta ___ oberta.,està,estiguera,siga,estiga,D,Present de subjuntiu: estiga.,Material original
+C1-VER-0110,C1,Verbs,test,No crec que ella ___ raó.,tinga,té,tinguera,tindrà,A,Present de subjuntiu: tinga.,Material original
+C1-VER-0111,C1,Verbs,test,Espere que ell ___ vindre.,puga,podria,pot,poguera,A,Present de subjuntiu: puga.,Material original
+C1-VER-0112,C1,Verbs,test,Et demane que ho ___ ara.,fera,faça,fa,faria,B,Present de subjuntiu: faça.,Material original
+C1-VER-0113,C1,Verbs,test,Vol que jo ___ amb ell.,va,anirà,vaja,anara,C,Present de subjuntiu: vaja.,Material original
+C1-VER-0114,C1,Verbs,test,És possible que Maria ___ demà.,vinguera,vinga,ve,vindrà,B,Present de subjuntiu: vinga.,Material original
+C1-VER-0115,C1,Verbs,test,Demà ___ la sol·licitud.,tinc que presentar,he de presentar,hi ha que presentar,dec de presentar,B,Obligació: haver de + infinitiu.,Material original
+C1-VER-0116,C1,Verbs,test,___ si vols aprovar.,tens que estudiar,deus de estudiar,hi ha que estudies,cal que estudies,D,Cal que + subjuntiu expressa necessitat.,Material original
+C1-VER-0117,C1,Verbs,test,"Per l’hora que era, ___ tard.",devia ser,havia de que ser,deuria de ser,tenia que ser,A,Probabilitat en passat: devia ser.,Material original
+C1-VER-0125,C1,Verbs,hueco,No crec que això ___ correcte.,,,,,siga,Subjuntiu de ser.,Material original
+C1-VER-0126,C1,Verbs,hueco,"Quan ell ho ___, avisarem.",,,,,faça,Present de subjuntiu de fer.,Material original
+C1-VER-0127,C1,Verbs,hueco,"Si ___ diners, compraria el llibre.",,,,,tinguera,Imperfet de subjuntiu.,Material original
+C1-VER-0128,C1,Verbs,hueco,"Si nosaltres ___ eixir abans, arribaríem a temps.",,,,,poguérem,"Imperfet de subjuntiu, 1a persona plural.",Material original
+C1-VOC-0365,C1,Vocabulari temàtic,test,Com diries “cabecera” en valencià?,capçalera,comiat,bestreta,queixa,A,“cabecera” correspon a “capçalera”.,Material original
+C1-VOC-0366,C1,Vocabulari temàtic,test,Com diries “borrador” en valencià?,endarrerir,comiat,recerca,esborrany,D,“borrador” correspon a “esborrany”.,Material original
+C1-VOC-0367,C1,Vocabulari temàtic,test,Com diries “plazo” en valencià?,deute,termini,taxa,assolir,B,“plazo” correspon a “termini”.,Material original
+C1-VOC-0368,C1,Vocabulari temàtic,test,Com diries “tasa” en valencià?,abonar,mancança,taxa,ajornar,C,“tasa” correspon a “taxa”.,Material original
+C1-VOC-0369,C1,Vocabulari temàtic,test,Com diries “anticipo” en valencià?,sol·licitud,deute,bestreta,ajornar,C,“anticipo” correspon a “bestreta”.,Material original
+C1-VOC-0370,C1,Vocabulari temàtic,test,Com diries “deuda” en valencià?,deute,recerca,capçalera,aclariment,A,“deuda” correspon a “deute”.,Material original
+C1-VOC-0371,C1,Vocabulari temàtic,test,Com diries “despedida” en valencià?,termini,bestreta,comiat,esborrany,C,“despedida” correspon a “comiat”.,Material original
+C1-VOC-0372,C1,Vocabulari temàtic,test,Com diries “investigación” en valencià?,queixa,aclariment,bestreta,recerca,D,“investigación” correspon a “recerca”.,Material original
+C1-VOC-0373,C1,Vocabulari temàtic,test,Com diries “queja” en valencià?,ajornar,entrebanc,esborrany,queixa,D,“queja” correspon a “queixa”.,Material original
+C1-VOC-0374,C1,Vocabulari temàtic,test,Com diries “solicitud” en valencià?,queixa,ajornar,sol·licitud,deute,C,“solicitud” correspon a “sol·licitud”.,Material original
+C1-VOC-0375,C1,Vocabulari temàtic,test,Com diries “aclaración” en valencià?,aclariment,esborrany,entrebanc,taxa,A,“aclaración” correspon a “aclariment”.,Material original
+C1-VOC-0376,C1,Vocabulari temàtic,test,Com diries “acontecimiento” en valencià?,mancança,assolir,esdeveniment,recerca,C,“acontecimiento” correspon a “esdeveniment”.,Material original
+C1-VOC-0377,C1,Vocabulari temàtic,test,Com diries “obstáculo” en valencià?,ajornar,entrebanc,sol·licitud,bestreta,B,“obstáculo” correspon a “entrebanc”.,Material original
+C1-VOC-0378,C1,Vocabulari temàtic,test,Com diries “carencia” en valencià?,escaure,mancança,recerca,termini,B,“carencia” correspon a “mancança”.,Material original
+C1-VOC-0379,C1,Vocabulari temàtic,test,Com diries “alcanzar” en valencià?,escaure,taxa,assolir,mancança,C,“alcanzar” correspon a “assolir”.,Material original
+C1-VOC-0380,C1,Vocabulari temàtic,test,Com diries “retrasar” en valencià?,ajornar,endarrerir,mancança,queixa,B,“retrasar” correspon a “endarrerir”.,Material original
+C1-VOC-0381,C1,Vocabulari temàtic,test,Com diries “aplazar” en valencià?,aclariment,mancança,ajornar,comiat,C,“aplazar” correspon a “ajornar”.,Material original
+C1-VOC-0382,C1,Vocabulari temàtic,test,Com diries “pagar” en valencià?,abonar,queixa,trametre,recerca,A,“pagar” correspon a “abonar”.,Material original
+C1-VOC-0383,C1,Vocabulari temàtic,test,Com diries “enviar” en valencià?,queixa,bestreta,trametre,endarrerir,C,“enviar” correspon a “trametre”.,Material original
+C1-VOC-0384,C1,Vocabulari temàtic,test,Com diries “proceder/ser adecuado” en valencià?,ajornar,comiat,escaure,recerca,C,“proceder/ser adecuado” correspon a “escaure”.,Material original
+C2-ACC-0032,C2,Accentuació i dièresi,test,Tria la forma escrita correctament.,recòrrer,recorrer,recórrer,recórrèr,C,Recórrer porta accent en la primera o i doble r.,Material original
+C2-ACC-0034,C2,Accentuació i dièresi,test,Tria la forma escrita correctament.,continuum,contínuum,contínuüm,contínuam,B,Contínuum porta accent i conserva la forma culta.,Material original
+C2-ACC-0035,C2,Accentuació i dièresi,test,Tria la forma escrita correctament.,reíficar,rèificar,reificar,reïficar,D,Reïficar porta dièresi per marcar hiat.,Material original
+C2-ACC-0043,C2,Accentuació i dièresi,test,"En un examen C2, l’accentuació serveix sobretot per a demostrar...",velocitat lectora,precisió lèxica i normativa,que saps traduir,només memòria,B,En nivells alts es valora la correcció sistemàtica.,Material original
+C2-ACC-0424,C2,Accentuació i ortografia,hueco,Completa: Cal aportar una prova ___.,,,,,fefaent,"Fixa’t en accents, dièresi o grafies normatives.",Material original
+C2-ACC-0425,C2,Accentuació i ortografia,test,Tria la forma normativa en registre formal.,cohexió,cohesió,coesió,cohessió,B,Cohesió conserva la h etimològica i porta s intervocàlica.,Material original
+C2-ACC-0426,C2,Accentuació i ortografia,test,Quina opció presenta una grafia correcta?,idiosincràsia,idiosincràcia,idiosincracia,idiossincràsia,A,Idiosincràsia porta accent obert i s simple en la forma normativa.,Material original
+C2-ACC-0427,C2,Accentuació i ortografia,hueco,Completa: L’informe fa una anàlisi ___ de les dades.,,,,,exhaustiva|exhaustiu,Exhaustiu/exhaustiva conserva la h i s’adequa al gènere del nom.,Material original
+C2-COM-0306,C2,Comprensió escrita,test,"Text: La proposta de reforma és ambiciosa, però la seua viabilitat depén de factors que el document només apunta de manera tangencial: la disponibilitat pressupostària, la coordinació interadministrativa i la capacitat de seguiment. Sense aquests elements, el risc no és tant el fracàs immediat com una aplicació desigual i difícilment avaluable.
+
+Quina valoració fa el text de la proposta?","És ambiciosa, però condicionada per factors clau",És només pressupostària,És senzilla i immediata,És inútil i s’ha de retirar,A,La primera oració ho estableix.,Material original
+C2-COM-0307,C2,Comprensió escrita,test,"Text: La proposta de reforma és ambiciosa, però la seua viabilitat depén de factors que el document només apunta de manera tangencial: la disponibilitat pressupostària, la coordinació interadministrativa i la capacitat de seguiment. Sense aquests elements, el risc no és tant el fracàs immediat com una aplicació desigual i difícilment avaluable.
+
+Què vol dir “de manera tangencial”?",De manera il·legal,De forma oral,De manera lateral o poc desenvolupada,De forma central i extensa,C,"Tangencial indica que es tracta de costat, no de forma central.",Material original
+C2-COM-0308,C2,Comprensió escrita,test,"Text: La proposta de reforma és ambiciosa, però la seua viabilitat depén de factors que el document només apunta de manera tangencial: la disponibilitat pressupostària, la coordinació interadministrativa i la capacitat de seguiment. Sense aquests elements, el risc no és tant el fracàs immediat com una aplicació desigual i difícilment avaluable.
+
+Quin risc destaca el text?",Una aplicació desigual i difícilment avaluable,La desaparició del pressupost,El fracàs immediat exclusivament,L’absència total de reformes,A,És la conclusió de l’última frase.,Material original
+C2-COM-0309,C2,Comprensió escrita,test,"Text: L’autor no rebutja la innovació tecnològica; més aviat en qüestiona l’adopció acrítica. Sosté que qualsevol eina incorporada a l’aula hauria d’anar precedida d’una reflexió pedagògica, d’una formació suficient del professorat i d’un sistema d’avaluació que permeta comprovar-ne l’impacte real.
+
+Quina posició manté l’autor?",Defensa una adopció crítica i planificada,Rebutja tota tecnologia,Vol substituir el professorat,No parla d’educació,A,"No rebutja la tecnologia, sinó l’adopció acrítica.",Material original
+C2-COM-0310,C2,Comprensió escrita,test,"Text: L’autor no rebutja la innovació tecnològica; més aviat en qüestiona l’adopció acrítica. Sosté que qualsevol eina incorporada a l’aula hauria d’anar precedida d’una reflexió pedagògica, d’una formació suficient del professorat i d’un sistema d’avaluació que permeta comprovar-ne l’impacte real.
+
+Què hauria de precedir la incorporació d’eines a l’aula?",Una sanció,Una campanya comercial,La retirada dels llibres,Una reflexió pedagògica,D,És un dels requisits indicats.,Material original
+C2-COM-0311,C2,Comprensió escrita,test,"Text: L’autor no rebutja la innovació tecnològica; més aviat en qüestiona l’adopció acrítica. Sosté que qualsevol eina incorporada a l’aula hauria d’anar precedida d’una reflexió pedagògica, d’una formació suficient del professorat i d’un sistema d’avaluació que permeta comprovar-ne l’impacte real.
+
+Quina funció té “més aviat”?",Indicar lloc,Expressar quantitat,Rectificar o precisar la idea anterior,Introduir una enumeració tancada,C,Més aviat matisa la primera afirmació.,Material original
+C2-COR-0253,C2,Correcció d’errades,texto,"Corregeix: “En base a que no hi ha quòrum, s’ajorna la sessió”.",,,,,"Atés que no hi ha quòrum, s’ajorna la sessió.","Evita en base a que; usa atés que, segons, d’acord amb...",Material original
+C2-COR-0254,C2,Correcció d’errades,texto,Corregeix: “La resolució ve a establir els criteris aplicables”.,,,,,La resolució estableix els criteris aplicables.,Evita perífrasis innecessàries en registre administratiu.,Material original
+C2-COR-0255,C2,Correcció d’errades,texto,Corregeix: “S’ha de garantir de que totes les persones hi tinguen accés”.,,,,,S’ha de garantir que totes les persones hi tinguen accés.,No introdueixes complement directe amb de que.,Material original
+C2-COR-0256,C2,Correcció d’errades,texto,Corregeix: “La norma que parle és recent”.,,,,,La norma de què parle és recent.,Parlar de: relatiu amb preposició de què.,Material original
+C2-COR-0257,C2,Correcció d’errades,texto,Corregeix: “És una qüestió que cal aprofundir en ella”.,,,,,És una qüestió en què cal aprofundir.,Evita duplicació pronominal; en què.,Material original
+C2-COR-0273,C2,Correcció d’errades,test,"Corregeix: “En base a que no hi ha quòrum, s’ajorna la sessió”.","Atés que no hi ha quòrum, s’ajorna la sessió.","En base a que no hi ha quòrum, s’ajorna la sessió",La frase és correcta tal com està.,No cal cap canvi.,A,"Evita en base a que; usa atés que, segons, d’acord amb...",Material original
+C2-COR-0274,C2,Correcció d’errades,test,Corregeix: “La resolució ve a establir els criteris aplicables”.,La resolució estableix els criteris aplicables.,La resolució ve a establir els criteris aplicables,La frase és correcta tal com està.,No cal cap canvi.,A,Evita perífrasis innecessàries en registre administratiu.,Material original
+C2-COR-0275,C2,Correcció d’errades,test,Corregeix: “S’ha de garantir de que totes les persones hi tinguen accés”.,S’ha de garantir que totes les persones hi tinguen accés.,S’ha de garantir de que totes les persones hi tinguen accés,La frase és correcta tal com està.,No cal cap canvi.,A,No introdueixes complement directe amb de que.,Material original
+C2-COR-0276,C2,Correcció d’errades,test,Corregeix: “La norma que parle és recent”.,La norma de què parle és recent.,La norma que parle és recent,La frase és correcta tal com està.,No cal cap canvi.,A,Parlar de: relatiu amb preposició de què.,Material original
+C2-COR-0277,C2,Correcció d’errades,test,Corregeix: “És una qüestió que cal aprofundir en ella”.,És una qüestió en què cal aprofundir.,És una qüestió que cal aprofundir en ella,La frase és correcta tal com està.,No cal cap canvi.,A,Evita duplicació pronominal; en què.,Material original
+C2-EXP-0324,C2,Expressió escrita,redaccio,Redacta un assaig de 250-300 paraules sobre els límits de la intel·ligència artificial en l’educació.,,,,,Resposta oberta,"Cal matisar, jerarquitzar idees i evitar afirmacions absolutes.",Material original
+C2-EXP-0325,C2,Expressió escrita,redaccio,Elabora una valoració crítica d’una política pública lingüística.,,,,,Resposta oberta,"Inclou criteris d’eficàcia, equitat i avaluació.",Material original
+C2-EXP-0326,C2,Expressió escrita,redaccio,Reescriu un text col·loquial com a informe administratiu formal.,,,,,Resposta oberta,"Treballa nominalitzacions, impersonalitat i precisió terminològica.",Material original
+C2-EXP-0327,C2,Expressió escrita,redaccio,Redacta una proposta argumentada per millorar la comunicació institucional.,,,,,Resposta oberta,"Defineix objectius, destinataris, mesures i indicadors.",Material original
+C2-EXP-0335,C2,Expressió oral,oral,Argumenta sobre si la tecnologia millora sempre la qualitat dels serveis públics.,,,,,Resposta oberta,"Matisos, contraarguments i registre formal.",Material original
+C2-EXP-0336,C2,Expressió oral,oral,Analitza els reptes de la comunicació institucional en una societat multilingüe.,,,,,Resposta oberta,Estructura clara i lèxic abstracte precís.,Material original
+C2-EXP-0337,C2,Expressió oral,oral,Defensa una posició matisada sobre l’ús de llenguatge planer en textos administratius.,,,,,Resposta oberta,"Inclou tesi, límits, exemples i contraarguments.",Material original
+C2-EXP-0338,C2,Expressió oral,oral,Compara els avantatges i riscos de digitalitzar tots els tràmits públics.,,,,,Resposta oberta,"Valora accessibilitat, eficiència, bretxa digital i garanties.",Material original
+C2-FRA-0207,C2,Fraseologia,test,Tria la locució adequada.,sense detall,a desgana,fil per randa,de passada,C,Vol dir amb tots els detalls.,Material original
+C2-FRA-0208,C2,Fraseologia,test,Tria la locució adequada.,a la vora,a l’atzar,després,a la bestreta,D,A la bestreta vol dir per endavant.,Material original
+C2-FRA-0209,C2,Fraseologia,test,Tria la locució adequada.,amb entusiasme,a corre-cuita,a contracor,a deshora,C,A contracor vol dir sense ganes.,Material original
+C2-FRA-0210,C2,Fraseologia,test,Tria la locució adequada per a “sense cap mena de dubte”.,de biaix,sens dubte,si fa no fa,tant se val,B,Sens dubte expressa certesa plena en registre formal.,Material original
+C2-FRA-0211,C2,Fraseologia,test,Quina expressió equival a “a grandes rasgos”?,a grans trets,a trenc d’alba,fil per randa,de gom a gom,A,A grans trets vol dir de manera general o esquemàtica.,Material original
+C2-LEX-0188,C2,Lèxic,test,Tria l’equivalent més adequat.,adecuado,escàs,escaient,escalent,C,Escaient vol dir adequat o oportú.,Material original
+C2-LEX-0189,C2,Lèxic,test,Tria l’equivalent més adequat.,fefaent,feinaent,fehaciente,feacient,A,"Fefaent significa que fa fe, fiable.",Material original
+C2-LEX-0190,C2,Lèxic,test,Tria l’equivalent més adequat.,disminuir,minvar,minimitzar sempre,minoritzar sempre,B,Minvar és disminuir.,Material original
+C2-LEX-0191,C2,Lèxic,test,Tria l’equivalent més adequat.,biaixable sempre,esbiaixat,bessó,sesgado,B,Sesgado és esbiaixat.,Material original
+C2-LEX-0192,C2,Lèxic,test,Tria l’equivalent més adequat.,abast,abasto,alcance,avanç,A,Alcance és abast.,Material original
+C2-LEX-0193,C2,Lèxic,test,Tria l’equivalent més adequat.,aspecte físic,caire,cariz,cara sempre,B,"Caire vol dir aspecte, orientació.",Material original
+C2-LEX-0194,C2,Lèxic,test,Tria l’equivalent més adequat.,reexit sense accent,reeixit,exitoso,eixit sempre,B,Reeixit significa que ha tingut èxit.,Material original
+C2-LEX-0195,C2,Lèxic,test,Tria l’equivalent més adequat.,brecha,bretxa sempre,escletxa,esquerda sempre,C,Escletxa és una obertura o diferència.,Material original
+C2-LEX-0196,C2,Lèxic,test,Tria l’equivalent més adequat.,esguard,guardar,guardó,mirada,A,Esguard és mirada.,Material original
+C2-LEX-0197,C2,Lèxic,test,Tria l’equivalent més adequat.,rendir cuentas,retre compte,donar conte,rendir compte,B,Retre compte és locució formal.,Material original
+C2-ORT-0078,C2,Ortografia,test,Quina opció està escrita correctament?,transcendensia,trascendència,transcendència,transcendéncia,C,Transcendència porta sc i accent obert.,Material original
+C2-ORT-0079,C2,Ortografia,test,Quina opció està escrita correctament?,exaustiu,exhaustiu,exhastiu,exhaustíu,B,Exhaustiu conserva la h culta.,Material original
+C2-ORT-0080,C2,Ortografia,test,Quina opció està escrita correctament?,sobhasta,subhasta,subasta,subhàsta,B,Subhasta conserva la h.,Material original
+C2-ORT-0081,C2,Ortografia,test,Quina opció està escrita correctament?,suggerir,sugerir,suggérir,suggerír,A,Suggerir porta gg.,Material original
+C2-ORT-0082,C2,Ortografia,test,Quina opció està escrita correctament?,gerarquia,jerarquia,jerarquía,jerarquïa,B,Jerarquia s’escriu amb j inicial.,Material original
+C2-ORT-0083,C2,Ortografia,test,Quina opció està escrita correctament?,objectíu,objetiu,obgectiu,objectiu,D,Objectiu conserva ct.,Material original
+C2-ORT-0084,C2,Ortografia,test,Quina opció està escrita correctament?,sugecte,subjecte,subjete,subgecte,B,Subjecte conserva ct/jecte.,Material original
+C2-ORT-0414,C2,Ortografia,test,Quina opció està escrita correctament?,justaposar,juxtaposar,juxstaposar,juxtapoçar,B,Juxtaposar conserva x.,Material original
+C2-PRE-0236,C2,Preposicions,test,No estic d’acord ___ aquesta interpretació.,amb,en,a,per,A,La construcció és estar d’acord amb.,Material original
+C2-PRE-0237,C2,Preposicions,test,Tinc dubtes ___ la validesa del document.,de,en,amb,a,A,Dubtes de/sobre; ací de és l’opció correcta.,Material original
+C2-PRE-0238,C2,Preposicions,test,"___ la normativa vigent, cal publicar la resolució.",D’acord amb,D’acord a,En base a,Conforme a que,A,D’acord amb és la construcció normativa en registre formal.,Material original
+C2-PRE-0239,C2,Preposicions,test,El debat gira ___ la conveniència de reformar el protocol.,entorn de,en torn a,sobre de,a propòsit a,A,Entorn de introdueix el tema al voltant del qual gira el debat.,Material original
+C2-PRE-0240,C2,Preposicions,test,"___ la seua aplicació pràctica, el decret encara planteja dubtes.",Pel que fa a,En quant a,A nivell de,Referent que,A,Pel que fa a és adequat; evita calcs com en quant a o a nivell de.,Material original
+C2-PRO-0148,C2,Pronoms febles,test,Tria la substitució pronominal correcta.,Li donaré una còpia d’això.,La hi donaré una còpia.,Li’n donaré una còpia.,N’hi donaré una còpia.,C,A ell/ella + de la cosa: li’n.,Material original
+C2-PRO-0149,C2,Pronoms febles,test,Tria la substitució pronominal correcta.,S’ha adonat d’això.,Li n’ha adonat.,Se n’ha adonat.,Ho s’ha adonat.,C,Adonar-se de: en; se n’ha.,Material original
+C2-PRO-0150,C2,Pronoms febles,test,Tria la substitució pronominal correcta.,Els explicaré això.,Els ho explicaré.,Ho els explicaré.,Els n’explicaré això.,B,A ells + això: els ho.,Material original
+C2-PRO-0151,C2,Pronoms febles,test,Tria la substitució pronominal correcta.,Posa-hi-lo.,Posa-l’hi.,Li posa ho.,Posa això ací.,B,Combinació de complement directe + lloc: l’hi.,Material original
+C2-PUN-0293,C2,Puntuació,test,Tria la puntuació correcta.,La proposta és viable ara bé exigeix més recursos.,"La proposta és viable, ara bé exigeix més recursos.","La proposta és viable: ara, bé exigeix més recursos.","La proposta és viable; ara bé, exigeix més recursos.",D,Ara bé és connector adversatiu i es puntua.,Material original
+C2-PUN-0294,C2,Puntuació,test,Tria la puntuació més adequada.,"El dictamen, que no és vinculant, orienta la decisió final.","El dictamen que, no és vinculant, orienta la decisió final.","El dictamen que no és vinculant orienta, la decisió final.","El dictamen, que no és vinculant orienta la decisió final.",A,L’oració explicativa s’aïlla entre comes.,Material original
+C2-PUN-0295,C2,Puntuació,test,Quina opció puntua millor el connector?,"La mesura és pertinent; tanmateix, caldrà avaluar-ne l’impacte.",La mesura és pertinent tanmateix caldrà avaluar-ne l’impacte.,"La mesura és pertinent, tanmateix caldrà avaluar-ne l’impacte.","La mesura és pertinent: tanmateix caldrà, avaluar-ne l’impacte.",A,Tanmateix demana pausa forta o punt i coma i coma posterior.,Material original
+C2-PUN-0296,C2,Puntuació,test,Tria l’opció amb dos punts justificats.,"L’informe analitza tres factors: pressupost, coordinació i seguiment.","L’informe analitza: tres factors pressupost, coordinació i seguiment.","L’informe: analitza tres factors, pressupost, coordinació i seguiment.",L’informe analitza tres factors pressupost: coordinació i seguiment.,A,Els dos punts introdueixen una enumeració anunciada.,Material original
+C2-REG-0284,C2,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,"La mesura presenta avantatges, si bé convé matisar-ne l’abast.",És bona i roïna alhora.,La cosa està bé però té pegues.,"Està guai, encara que no tant.",A,Registre acadèmic formal i matisat.,Material original
+C2-REG-0285,C2,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,Fem-ho i ja vorem.,"No ho tinc clar, la veritat.",Caldria ponderar els efectes abans d’implantar-la.,Ho hauríem de mirar bé abans de fer-ho.,C,L’opció formal és precisa i impersonal.,Material original
+C2-REG-0286,C2,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,"No està mal, però fluixeja.",Açò no cola.,"Té sentit, però li falten proves.","L’argumentació és coherent, però no acredita prou les dades.",D,Registre C2: precisió i objectivitat.,Material original
+C2-SIN-0226,C2,Sintaxi i connectors,test,"El text és dens; ___, resulta molt precís.",per a que,malament que,nogensmenys,mes no,C,Nogensmenys és un connector concessiu de registre elevat.,Material original
+C2-SIN-0227,C2,Sintaxi i connectors,test,Cal planificar el calendari ___ la convocatòria.,amb vista a,a vista per,per vista que,en vistes de que,A,Amb vista a expressa finalitat o previsió.,Material original
+C2-SIN-0228,C2,Sintaxi i connectors,test,"___ les queixes, s’ha revisat el protocol.",arran de,arrel a,a raó de,en arrel de,A,Arran de indica origen o causa immediata.,Material original
+C2-SIN-0229,C2,Sintaxi i connectors,test,Podràs inscriure-t’hi ___ complisques els requisits.,sempre que,a condició de que,mentre que de,sempre i quan,A,Sempre que introdueix condició.,Material original
+C2-TRA-0343,C2,Transformació de frases,texto,"Reformula en registre formal: Les dades són insuficients, per això no podem concloure res del tot.",,,,,"Atés que les dades són insuficients, no és possible extraure conclusions definitives.",Atés que + conseqüència formal.,Material original
+C2-TRA-0344,C2,Transformació de frases,texto,"Reformula amb concessió formal: La mesura és pertinent, però s’hauria d’avaluar l’impacte.",,,,,"Tot i que la mesura és pertinent, caldria avaluar-ne l’impacte.",Tot i que introdueix concessió.,Material original
+C2-TRA-0345,C2,Transformació de frases,texto,"Reformula evitant el calc: En base als resultats, es prendran mesures.",,,,,"D’acord amb els resultats, es prendran mesures.|A partir dels resultats, es prendran mesures.","Evita en base a; usa d’acord amb, a partir de o segons el context.",Material original
+C2-TRA-0346,C2,Transformació de frases,texto,Reformula amb impersonalitat: Hem decidit ampliar el termini perquè la gent puga presentar al·legacions.,,,,,S’ha decidit ampliar el termini perquè les persones interessades puguen presentar al·legacions.,El registre administratiu afavoreix la impersonalitat i la precisió.,Material original
+C2-TRA-0347,C2,Transformació de frases,texto,Reformula amb nominalització: El servei no funciona bé i això preocupa els usuaris.,,,,,El funcionament deficient del servei genera preocupació entre les persones usuàries.,La nominalització aporta densitat informativa pròpia del registre formal.,Material original
+C2-VER-0118,C2,Verbs,test,"Si ho ___, no hauria actuat així.",havia sabut,sabrera,haguera sabut,hauria sabut,C,Plusquamperfet de subjuntiu en condicional composta.,Material original
+C2-VER-0119,C2,Verbs,test,"Si m’hagueres avisat, jo ___.",vindria,hauria vingut,venia,haguera vingut,B,Condicional compost: hauria vingut.,Material original
+C2-VER-0120,C2,Verbs,test,No consta que el problema ___ definitivament.,s’haja resolt,es resolguera,se resoldrà,s’ha resolt,A,Present perfet de subjuntiu.,Material original
+C2-VER-0121,C2,Verbs,test,"En un registre formal, ___ el document abans d’enviar-lo.",caldrà que revisar,tindríem que revisar,hi hauria que revisar,caldria revisar,D,Caldria + infinitiu és formal i correcte.,Material original
+C2-VER-0129,C2,Verbs,hueco,"Si ells ho ___, haurien evitat el problema.",,,,,hagueren previst,Plusquamperfet de subjuntiu.,Material original
+C2-VOC-0385,C2,Vocabulari temàtic,test,Com diries “umbral” en valencià?,esmenar,ultrapassar,esmerçar,llindar,D,“umbral” correspon a “llindar”.,Material original
+C2-VOC-0386,C2,Vocabulari temàtic,test,Com diries “agravio” en valencià?,ultrapassar,greuge,escrutini,besllum,B,“agravio” correspon a “greuge”.,Material original
+C2-VOC-0387,C2,Vocabulari temàtic,test,Com diries “talante” en valencià?,tarannà,reeixir,gairebé,escrutini,A,“talante” correspon a “tarannà”.,Material original
+C2-VOC-0388,C2,Vocabulari temàtic,test,Com diries “examen minucioso” en valencià?,escrutini,esmerçar,cabdal,fretura,A,“examen minucioso” correspon a “escrutini”.,Material original
+C2-VOC-0389,C2,Vocabulari temàtic,test,Com diries “poner de manifiesto” en valencià?,fretura,palesar,reeixir,defugir,B,“poner de manifiesto” correspon a “palesar”.,Material original
+C2-VOC-0390,C2,Vocabulari temàtic,test,Com diries “tener éxito” en valencià?,esmerçar,reeixir,fretura,tarannà,B,“tener éxito” correspon a “reeixir”.,Material original
+C2-VOC-0391,C2,Vocabulari temàtic,test,Com diries “atisbo” en valencià?,besllum,gairebé,ultrapassar,reeixir,A,“atisbo” correspon a “besllum”.,Material original
+C2-VOC-0392,C2,Vocabulari temàtic,test,Com diries “capital/importante” en valencià?,esmenar,ultrapassar,cabdal,tarannà,C,“capital/importante” correspon a “cabdal”.,Material original
+C2-VOC-0393,C2,Vocabulari temàtic,test,Com diries “necesidad o carencia” en valencià?,fretura,escrutini,palesar,tarannà,A,“necesidad o carencia” correspon a “fretura”.,Material original
+C2-VOC-0394,C2,Vocabulari temàtic,test,Com diries “casi” en valencià?,gairebé,llindar,greuge,escrutini,A,“casi” correspon a “gairebé”.,Material original
+C2-VOC-0395,C2,Vocabulari temàtic,test,Com diries “invertir esfuerzo o recursos” en valencià?,esmerçar,greuge,defugir,palesar,A,“invertir esfuerzo o recursos” correspon a “esmerçar”.,Material original
+C2-VOC-0396,C2,Vocabulari temàtic,test,Com diries “consolidar” en valencià?,cabdal,afermar,esmenar,palesar,B,“consolidar” correspon a “afermar”.,Material original
+C2-VOC-0397,C2,Vocabulari temàtic,test,Com diries “evitar” en valencià?,fretura,defugir,gairebé,greuge,B,“evitar” correspon a “defugir”.,Material original
+C2-VOC-0398,C2,Vocabulari temàtic,test,Com diries “sobrepasar” en valencià?,cabdal,ultrapassar,tarannà,greuge,B,“sobrepasar” correspon a “ultrapassar”.,Material original
+C2-VOC-0399,C2,Vocabulari temàtic,test,Com diries “corregir” en valencià?,esmenar,tarannà,fretura,cabdal,A,“corregir” correspon a “esmenar”.,Material original

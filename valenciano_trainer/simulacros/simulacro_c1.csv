@@ -1,0 +1,67 @@
+id,nivel,tema,tipo,pregunta,opcion_a,opcion_b,opcion_c,opcion_d,respuesta,explicacion,fuente
+C1-ORT-0409,C1,Ortografia,test,Quina opció està escrita correctament?,egzistir,esistir,ecsistir,existir,D,Existir amb x.,Material original
+C1-ORT-0407,C1,Ortografia,test,Quina opció està escrita correctament?,ejemple,egemple,exemle,exemple,D,Exemple amb x.,Material original
+C1-VER-0109,C1,Verbs,test,Cal que la porta ___ oberta.,està,estiguera,siga,estiga,D,Present de subjuntiu: estiga.,Material original
+C1-SIN-0221,C1,Sintaxi i connectors,test,"___ havia estudiat, es va posar nerviós.",malgrat que,mal que de,tot i de que,encara de que,A,Malgrat que és concessiu.,Material original
+C1-ORT-0064,C1,Ortografia,test,Quina opció està escrita correctament?,desitjar,desidjar,desitxar,desijar,A,Desitjar porta tj.,Material original
+C1-VOC-0380,C1,Vocabulari temàtic,test,Com diries “retrasar” en valencià?,ajornar,endarrerir,mancança,queixa,B,“retrasar” correspon a “endarrerir”.,Material original
+C1-ACC-0029,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,interés,ínteres,interes,interès,A,En valencià estàndard: interés.,Material original
+C1-VOC-0384,C1,Vocabulari temàtic,test,Com diries “proceder/ser adecuado” en valencià?,ajornar,comiat,escaure,recerca,C,“proceder/ser adecuado” correspon a “escaure”.,Material original
+C1-ACC-0028,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,anglès,ángles,anglés,angles,C,En valencià estàndard: anglés.,Material original
+C1-VER-0113,C1,Verbs,test,Vol que jo ___ amb ell.,va,anirà,vaja,anara,C,Present de subjuntiu: vaja.,Material original
+C1-VOC-0367,C1,Vocabulari temàtic,test,Com diries “plazo” en valencià?,deute,termini,taxa,assolir,B,“plazo” correspon a “termini”.,Material original
+C1-VOC-0376,C1,Vocabulari temàtic,test,Com diries “acontecimiento” en valencià?,mancança,assolir,esdeveniment,recerca,C,“acontecimiento” correspon a “esdeveniment”.,Material original
+C1-COR-0269,C1,Correcció d’errades,test,Corregeix: “No sé que vols dir” quan és interrogatiu indirecte.,No sé què vols dir.,No sé que vols dir,La frase és correcta tal com està.,No cal cap canvi.,A,Què interrogatiu porta accent.,Material original
+C1-LEX-0182,C1,Lèxic,test,Tria l’equivalent més adequat.,ajornament,emplaçament,aplazamiento,retardament,A,Aplazar és ajornar; ajornament.,Material original
+C1-COM-0300,C1,Comprensió escrita,test,"Text: La digitalització de l’administració ha simplificat molts tràmits, però també ha evidenciat desigualtats d’accés. Les persones que no disposen de competències digitals poden trobar dificultats per presentar sol·licituds, demanar cites o consultar notificacions. Per això, diverses oficines han creat punts d’acompanyament presencial.
+
+Quina idea resumeix millor el text?",Les notificacions ja no són necessàries,La digitalització elimina tots els problemes,"La digitalització facilita tràmits, però pot excloure persones",Les oficines presencials desapareixeran,C,El text presenta avantatges i límits.,Material original
+C1-PUN-0290,C1,Puntuació,test,Tria la puntuació correcta.,El document que ja està signat s’enviarà demà.,El document; que ja està signat; s’enviarà demà.,"El document que, ja està signat, s’enviarà demà.","El document, que ja està signat, s’enviarà demà.",D,Incís explicatiu entre comes.,Material original
+C1-SIN-0218,C1,Sintaxi i connectors,test,"S’ha aprovat el pressupost; ___, s’ha creat una comissió de seguiment.",ja que sí,així mateix,sinó mateix,en tant que no,B,Així mateix afegeix informació en registre formal.,Material original
+C1-LEX-0178,C1,Lèxic,test,Tria l’equivalent més adequat.,anar-se’n,adreçar-se,endressar-se,dirigirse,B,Dirigirse a alguien és adreçar-se.,Material original
+C1-PRO-0143,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,No portes-los demà.,No porta’ls demà.,No els portes demà.,No les portes demà.,C,"En negació, el pronom va davant del verb.",Material original
+C1-VER-0107,C1,Verbs,test,"Si el tècnic ___ hui, ho revisaria.",vinguera,vindria,vinga,ve,A,Imperfet de subjuntiu: vinguera.,Material original
+C1-PRO-0142,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Porta-ls demà.,Porta-les demà.,Els porta demà.,Porta’ls demà.,D,"Darrere imperatiu afirmatiu, pronom enclític: porta’ls.",Material original
+C1-ACC-0041,C1,Accentuació i dièresi,test,Per què “país” no porta dièresi?,no porta dièresi perquè l’accent ja marca el hiat,perquè és monosíl·laba,perquè és una paraula plana,perquè no té hiat,A,"Quan hi ha accent gràfic, no cal dièresi.",Material original
+C1-VOC-0375,C1,Vocabulari temàtic,test,Com diries “aclaración” en valencià?,aclariment,esborrany,entrebanc,taxa,A,“aclaración” correspon a “aclariment”.,Material original
+C1-VOC-0366,C1,Vocabulari temàtic,test,Com diries “borrador” en valencià?,endarrerir,comiat,recerca,esborrany,D,“borrador” correspon a “esborrany”.,Material original
+C1-FRA-0203,C1,Fraseologia,test,Tria la locució adequada.,de cap manera,exactament,a cau d’orella,si fa no fa,D,Vol dir aproximadament.,Material original
+C1-REG-0282,C1,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,Et passe papers.,Vos envie lo que tocava.,Ací va tot.,Adjunte la documentació requerida.,D,Fórmula formal per a correu o instància.,Material original
+C1-ORT-0076,C1,Ortografia,test,Quina opció està escrita correctament?,connexió,connexiò,connecció,conexió,A,Connexió porta nn i x.,Material original
+C1-LEX-0179,C1,Lèxic,test,Tria l’equivalent més adequat.,rellenar estàndard,rellenar,emplenar,plenar únicament,C,Rellenar un formulari és emplenar.,Material original
+C1-ACC-0022,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,conduia,conduía,condüia,conduïa,D,Conduïa porta dièresi en la i.,Material original
+C1-ORT-0406,C1,Ortografia,test,Quina opció està escrita correctament?,ecsamen,egsamen,exàmen,examen,D,Examen no porta accent i s’escriu amb x.,Material original
+C1-PRO-0145,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Vull la veure.,Vull veure’n.,Vull veure-la.,Vull veure-li.,C,"Amb infinitiu, el pronom pot anar darrere: veure-la.",Material original
+C1-VER-0114,C1,Verbs,test,És possible que Maria ___ demà.,vinguera,vinga,ve,vindrà,B,Present de subjuntiu: vinga.,Material original
+C1-ACC-0042,C1,Accentuació i dièresi,test,"En “a més a més”, la paraula amb accent és...",cap,darrere,més,a,B,Més porta accent diacrític.,Material original
+C1-SIN-0222,C1,Sintaxi i connectors,test,"___ les taxes, encara no s’han publicat.",amb quant a,en quan a,en quant a,quant a,D,Quant a és la forma correcta.,Material original
+C1-VER-0104,C1,Verbs,test,"Si ell ___ vindre, ens ajudaria.",poguera,puga,puc,podria,A,Imperfet de subjuntiu: poguera.,Material original
+C1-ACC-0040,C1,Accentuació i dièresi,test,El signe de “veïna” indica...,guionet,accent tancat,dièresi,accent obert,C,La dièresi marca que la i es pronuncia separada.,Material original
+C1-VOC-0372,C1,Vocabulari temàtic,test,Com diries “investigación” en valencià?,queixa,aclariment,bestreta,recerca,D,“investigación” correspon a “recerca”.,Material original
+C1-COM-0302,C1,Comprensió escrita,test,"Text: La digitalització de l’administració ha simplificat molts tràmits, però també ha evidenciat desigualtats d’accés. Les persones que no disposen de competències digitals poden trobar dificultats per presentar sol·licituds, demanar cites o consultar notificacions. Per això, diverses oficines han creat punts d’acompanyament presencial.
+
+Per què es creen punts d’acompanyament?",Per vendre equips informàtics,Per substituir internet,Per reduir personal,Per ajudar qui té dificultats digitals,D,La relació causal és clara en l’última frase.,Material original
+C1-ACC-0018,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,ambigüitat,ambiguitat,ambigüedat,ambigüetàt,A,La u de güi es pronuncia i porta dièresi.,Material original
+C1-LEX-0187,C1,Lèxic,test,Tria l’equivalent més adequat.,alegació,alegación,al·legació,allegació,C,Al·legació porta ela geminada.,Material original
+C1-COM-0305,C1,Comprensió escrita,test,"Text: L’informe no qüestiona la necessitat de millorar el transport públic, sinó la manca d’indicadors per avaluar-ne l’eficàcia. Recomana definir objectius mesurables, publicar dades periòdiques i incorporar l’opinió de les persones usuàries abans d’ampliar el servei.
+
+Quin sentit té “sinó” en el text?",Expressa temps,Afegeix una causa,Marca una condició,Introdueix una alternativa oposada,D,"No qüestiona X, sinó Y.",Material original
+C1-SIN-0223,C1,Sintaxi i connectors,test,La prova s’ha suspés ___ la pluja.,donat a,a causa de,per culpa que de,degut a,B,A causa de és una forma segura en registre formal.,Material original
+C1-LEX-0173,C1,Lèxic,test,Tria l’equivalent més adequat.,netejar sempre,esborrar,borrar,borronar,B,Borrar és esborrar.,Material original
+C1-LEX-0175,C1,Lèxic,test,Tria l’equivalent més adequat.,plaç,plaça,plazo,termini,D,Plazo és termini.,Material original
+C1-PRE-0233,C1,Preposicions,test,El carrer va ser tallat ___ la policia.,per,per a,de,amb,A,Complement agent: per.,Material original
+C1-COR-0264,C1,Correcció d’errades,test,"Corregeix: “En quant a la matrícula, cal revisar el termini”.","Pel que fa a la matrícula, cal revisar el termini.","En quant a la matrícula, cal revisar el termini",La frase és correcta tal com està.,No cal cap canvi.,A,Forma correcta: quant a / pel que fa a.,Material original
+C1-APO-0090,C1,Apostrofació i contraccions,test,Tria la forma més adequada.,de hora,d’hora,d hora,dora,B,De s’apostrofa davant vocal o h.,Material original
+C1-PUN-0292,C1,Puntuació,test,Tria la puntuació correcta.,El termini acaba demà: per tant convé inscriure-s’hi hui.,"El termini acaba demà, per tant convé inscriure-s’hi hui.",El termini acaba demà per tant convé inscriure-s’hi hui.,"El termini acaba demà; per tant, convé inscriure-s’hi hui.",D,El punt i coma separa oracions relacionades; per tant porta coma.,Material original
+C1-FRA-0204,C1,Fraseologia,test,Tria la locució adequada.,sempre,mai,a la força,de tant en tant,D,De vez en cuando és de tant en tant.,Material original
+C1-VER-0105,C1,Verbs,test,"Si tu ___ més exercici, et trobaries millor.",faig,faça,fera,faria,C,Imperfet de subjuntiu: fera.,Material original
+C1-VOC-0370,C1,Vocabulari temàtic,test,Com diries “deuda” en valencià?,deute,recerca,capçalera,aclariment,A,“deuda” correspon a “deute”.,Material original
+C1-VOC-0374,C1,Vocabulari temàtic,test,Com diries “solicitud” en valencià?,queixa,ajornar,sol·licitud,deute,C,“solicitud” correspon a “sol·licitud”.,Material original
+C1-LEX-0176,C1,Lèxic,test,Tria l’equivalent més adequat.,medi sempre,mitjà,mig sempre,medio,B,Medio de comunicación és mitjà.,Material original
+C1-PRO-0138,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,Vaig-hi cada estiu.,Hi vaig cada estiu.,En vaig cada estiu.,Ho vaig cada estiu.,B,Complement de lloc introduït per a/en: hi.,Material original
+C1-ACC-0021,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,agraïà,agraïa,agraia,agraía,B,Agraïa porta dièresi per marcar el hiat.,Material original
+C1-ACC-0024,C1,Accentuació i dièresi,test,Tria la forma escrita correctament.,diùrn,díurn,diürn,diurn,C,Diürn porta dièresi.,Material original
+C1-ORT-0074,C1,Ortografia,test,Quina opció està escrita correctament?,escisió,excisió,escició,escissió,D,Escissió porta ss.,Material original
+C1-PRO-0140,C1,Pronoms febles,test,Tria la substitució pronominal correcta.,No li parle mai.,No ho parle mai.,No en parle mai.,No el parle mai.,C,Parlar de + tema: en.,Material original
+C1-FRA-0205,C1,Fraseologia,test,Tria la locució adequada.,a medio plazo,a mitjan termini,a termini mig,al mig plaç,B,A medio plazo: a mitjan termini.,Material original
+C1-REG-0281,C1,Registre i adequació,test,Tria l’opció més adequada per a un registre formal.,Necessite que em feu cas ja.,A vore si ho arregleu.,Sol·licite que es revise la meua inscripció.,Vull que mireu lo meu.,C,Registre administratiu formal.,Material original
