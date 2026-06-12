@@ -1,0 +1,25 @@
+id,nivel,tema,tipo,pregunta,opcion_a,opcion_b,opcion_c,opcion_d,respuesta,explicacion,fuente
+C1-ORT-0062,C1,Ortografia,test,Quina opció està escrita correctament?,rellotge,reloigge,relotge,rellotje,A,Rellotge porta ll i tg.,Material original
+C1-ORT-0063,C1,Ortografia,test,Quina opció està escrita correctament?,juzgat,jutjat,jutgat,jujat,B,Jutjat porta tj.,Material original
+C1-ORT-0064,C1,Ortografia,test,Quina opció està escrita correctament?,desitjar,desidjar,desitxar,desijar,A,Desitjar porta tj.,Material original
+C1-ORT-0065,C1,Ortografia,test,Quina opció està escrita correctament?,mitxà,mijà,mitjà,migjà,C,Mitjà porta tj.,Material original
+C1-ORT-0066,C1,Ortografia,test,Quina opció està escrita correctament?,col-laborar,col·laborar,colaborar,col.laborar,B,La ela geminada s’escriu amb punt volat.,Material original
+C1-ORT-0067,C1,Ortografia,test,Quina opció està escrita correctament?,ilegal,il-legal,il·legal,il.legal,C,Il·legal porta ela geminada.,Material original
+C1-ORT-0068,C1,Ortografia,test,Quina opció està escrita correctament?,sol-licitar,sol·licitar,solicitar,sol.licitar,B,Sol·licitar porta ela geminada.,Material original
+C1-ORT-0069,C1,Ortografia,test,Quina opció està escrita correctament?,exel·lent,excel·lent,excelent,exellent,B,Excel·lent porta x i ela geminada.,Material original
+C1-ORT-0070,C1,Ortografia,test,Quina opció està escrita correctament?,paraŀlel,paralel,parallel,paral·lel,D,Paral·lel porta ela geminada.,Material original
+C1-ORT-0071,C1,Ortografia,test,Quina opció està escrita correctament?,al·lérgia,al·lèrgia,alergia,allèrgia,B,Al·lèrgia porta ela geminada.,Material original
+C1-ORT-0072,C1,Ortografia,test,Quina opció està escrita correctament?,assumte,asumpte,asumte,assumpte,D,Assumpte porta ss i mp.,Material original
+C1-ORT-0073,C1,Ortografia,test,Quina opció està escrita correctament?,pressupostt,presupost,pressupost,presupuest,C,Pressupost porta ss.,Material original
+C1-ORT-0074,C1,Ortografia,test,Quina opció està escrita correctament?,escisió,excisió,escició,escissió,D,Escissió porta ss.,Material original
+C1-ORT-0075,C1,Ortografia,test,Quina opció està escrita correctament?,immens,immènç,inmens,imens,A,Immens porta mm.,Material original
+C1-ORT-0076,C1,Ortografia,test,Quina opció està escrita correctament?,connexió,connexiò,connecció,conexió,A,Connexió porta nn i x.,Material original
+C1-ORT-0077,C1,Ortografia,test,Quina opció està escrita correctament?,anex,ànnex,annex,annexe,C,Annex porta nn.,Material original
+C1-ORT-0406,C1,Ortografia,test,Quina opció està escrita correctament?,ecsamen,egsamen,exàmen,examen,D,Examen no porta accent i s’escriu amb x.,Material original
+C1-ORT-0407,C1,Ortografia,test,Quina opció està escrita correctament?,ejemple,egemple,exemle,exemple,D,Exemple amb x.,Material original
+C1-ORT-0408,C1,Ortografia,test,Quina opció està escrita correctament?,exigir,esigir,exijir,egigir,A,Exigir amb x i g.,Material original
+C1-ORT-0409,C1,Ortografia,test,Quina opció està escrita correctament?,egzistir,esistir,ecsistir,existir,D,Existir amb x.,Material original
+C1-ORT-0410,C1,Ortografia,test,Quina opció està escrita correctament?,xarxa,La frase és correcta tal com està.,No cal cap canvi.,No és una opció adequada.,A,Xarxa amb x inicial.,Material original
+C1-ORT-0411,C1,Ortografia,test,Quina opció està escrita correctament?,baixàr,bachar,baijar,baixar,D,Baixar amb ix.,Material original
+C1-ORT-0412,C1,Ortografia,test,Quina opció està escrita correctament?,deijar,deixàr,dexar,deixar,D,Deixar amb ix.,Material original
+C1-ORT-0413,C1,Ortografia,test,Quina opció està escrita correctament?,mateix,mateig,matèix,mateixx,A,Mateix amb ix.,Material original
