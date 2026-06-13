@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Valencià">
-  <rect width="512" height="512" rx="96" fill="#1f6feb"/>
-  <path d="M118 150h276v212H118z" fill="#ffffff"/>
-  <path d="M118 150h276v46H118z" fill="#f5c542"/>
-  <path d="M118 316h276v46H118z" fill="#f5c542"/>
-  <path d="M162 242h188" stroke="#1f6feb" stroke-width="28" stroke-linecap="round"/>
-  <path d="M162 274h128" stroke="#1f6feb" stroke-width="28" stroke-linecap="round"/>
-  <circle cx="370" cy="262" r="42" fill="#137333"/>
-  <path d="m350 263 14 14 30-34" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="512" height="512" rx="96" fill="#a84f2a"/>
+  <path d="M92 114h328v284H92z" fill="#fffaf0"/>
+  <path d="M92 114h328v54H92z" fill="#d99a22"/>
+  <path d="M92 344h328v54H92z" fill="#4f6f3a"/>
+  <path d="M144 216h224" stroke="#71351f" stroke-width="26" stroke-linecap="round"/>
+  <path d="M144 260h160" stroke="#71351f" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="364" cy="260" r="46" fill="#d86f1d"/>
+  <path d="m341 262 15 15 34-38" fill="none" stroke="#fffaf0" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

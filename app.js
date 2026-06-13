@@ -13,6 +13,7 @@ let allQuestions = [];
 let quizQuestions = [];
 let currentIndex = 0;
 let answeredThisRun = new Map();
+let pendingSelections = new Map();
 let stats = loadStats();
 let waitingWorker = null;
 let activeSession = createPracticeSession();
@@ -70,6 +71,22 @@ const els = {
   progressFile: document.getElementById("progressFile"),
   exportBankBtn: document.getElementById("exportBankBtn"),
   resetScopeBtn: document.getElementById("resetScopeBtn"),
+  landingPage: document.getElementById("landingPage"),
+  appShell: document.getElementById("appShell"),
+  enterAppBtn: document.getElementById("enterAppBtn"),
+  tabButtons: [...document.querySelectorAll(".tab-button")],
+  tabPanels: [...document.querySelectorAll(".tab-panel")],
+  sessionTypePractice: document.getElementById("sessionTypePractice"),
+  sessionTypeExam: document.getElementById("sessionTypeExam"),
+  practiceConfig: document.getElementById("practiceConfig"),
+  examConfig: document.getElementById("examConfig"),
+  emptyExerciseCard: document.getElementById("emptyExerciseCard"),
+  sessionSummaryCard: document.getElementById("sessionSummaryCard"),
+  optionConfirmBox: document.getElementById("optionConfirmBox"),
+  optionHint: document.getElementById("optionHint"),
+  confirmOptionBtn: document.getElementById("confirmOptionBtn"),
+  sessionSummaryText: document.getElementById("sessionSummaryText"),
+  sessionSummaryBox: document.getElementById("sessionSummaryBox"),
 };
 
 init();
@@ -134,6 +151,16 @@ async function loadDefaultBank() {
 }
 
 function bindEvents() {
+  els.enterAppBtn.addEventListener("click", enterApp);
+  els.tabButtons.forEach(button => {
+    button.addEventListener("click", () => switchTab(button.dataset.tab));
+  });
+  document.querySelectorAll("[data-tab-jump]").forEach(button => {
+    button.addEventListener("click", () => switchTab(button.dataset.tabJump));
+  });
+  els.sessionTypePractice.addEventListener("change", renderSessionType);
+  els.sessionTypeExam.addEventListener("change", renderSessionType);
+
   els.csvFile.addEventListener("change", async (e) => {
     const files = [...e.target.files];
     if (!files.length) return;
@@ -164,6 +191,7 @@ function bindEvents() {
   els.refreshAppBtn.addEventListener("click", refreshInstalledApp);
   els.prevBtn.addEventListener("click", () => moveQuestion(-1));
   els.nextBtn.addEventListener("click", () => moveQuestion(1));
+  els.confirmOptionBtn.addEventListener("click", confirmSelectedOption);
   els.checkTextBtn.addEventListener("click", checkTextAnswer);
   els.markOpenGoodBtn.addEventListener("click", () => markOpenAnswer(true));
   els.markOpenBadBtn.addEventListener("click", () => markOpenAnswer(false));
@@ -180,6 +208,33 @@ function bindEvents() {
   window.addEventListener("online", renderConnectionStatus);
   window.addEventListener("offline", renderConnectionStatus);
   renderConnectionStatus();
+  renderSessionType();
+}
+
+function enterApp() {
+  document.body.classList.remove("landing-active");
+  els.landingPage.setAttribute("aria-hidden", "true");
+  els.appShell.removeAttribute("aria-hidden");
+  switchTab("configTab");
+}
+
+function switchTab(tabId) {
+  if (!tabId) return;
+  els.tabButtons.forEach(button => {
+    const active = button.dataset.tab === tabId;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-selected", String(active));
+  });
+  els.tabPanels.forEach(panel => {
+    panel.classList.toggle("active", panel.id === tabId);
+  });
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function renderSessionType() {
+  const isExam = els.sessionTypeExam.checked;
+  els.practiceConfig.classList.toggle("hidden", isExam);
+  els.examConfig.classList.toggle("hidden", !isExam);
 }
 
 function registerServiceWorker() {
@@ -555,10 +610,16 @@ function beginSession(questions, session) {
   activeSession = session;
   currentIndex = 0;
   answeredThisRun = new Map();
+  pendingSelections = new Map();
   startSessionTimer();
+  els.emptyExerciseCard.classList.add("hidden");
+  els.sessionSummaryCard.classList.add("hidden");
   els.quizCard.classList.remove("hidden");
+  els.sessionSummaryText.textContent = "Sesión en curso. El resumen aparecerá al finalizar.";
+  els.sessionSummaryBox.classList.add("hidden");
+  els.sessionSummaryBox.innerHTML = "";
+  switchTab("exerciseTab");
   renderQuestion();
-  window.scrollTo({ top: els.quizCard.offsetTop - 10, behavior: "smooth" });
 }
 
 function createPracticeSession() {
@@ -566,7 +627,7 @@ function createPracticeSession() {
     type: "practice",
     level: "",
     durationMs: 0,
-    startedAt: 0,
+    startedAt: Date.now(),
     deadline: 0,
     finished: false,
   };
@@ -640,6 +701,9 @@ function renderQuestion() {
   els.checkTextBtn.disabled = false;
   els.markOpenGoodBtn.disabled = false;
   els.markOpenBadBtn.disabled = false;
+  els.optionConfirmBox.classList.add("hidden");
+  els.confirmOptionBtn.disabled = true;
+  els.optionHint.textContent = "Selecciona una opción.";
 
   const manualReview = needsManualReview(q);
   const isTextLike = manualReview || q.tipo === "texto" || q.tipo === "hueco";
@@ -657,22 +721,29 @@ function renderQuestion() {
       if (activeSession.type !== "exam") showFeedback(previous.correct, q, previous.given);
     }
   } else {
+    els.optionConfirmBox.classList.remove("hidden");
     for (const key of ["A", "B", "C", "D"]) {
       if (!q.opciones[key]) continue;
       const btn = document.createElement("button");
       btn.className = "option";
       btn.textContent = `${key}. ${q.opciones[key]}`;
-      btn.addEventListener("click", () => checkOptionAnswer(key));
+      btn.addEventListener("click", () => selectOptionAnswer(key));
       els.optionsBox.appendChild(btn);
     }
     const previous = answeredThisRun.get(q.id);
     if (previous) {
+      els.confirmOptionBtn.disabled = true;
+      els.optionHint.textContent = `Respuesta aceptada: ${previous.given}.`;
       if (activeSession.type === "exam") {
-        markExamOption(previous.given);
+        markSelectedOption(previous.given);
+        lockOptionAnswer();
       } else {
         markOptions(previous.given, q.respuesta);
         showFeedback(previous.correct, q, previous.given);
       }
+    } else {
+      const pending = pendingSelections.get(q.id);
+      if (pending) markSelectedOption(pending);
     }
   }
 
@@ -690,13 +761,32 @@ function needsManualReview(q) {
   return q.tipo === "texto" && clean(q.respuesta).length > 120;
 }
 
+function selectOptionAnswer(given) {
+  if (activeSession.finished) return;
+  const q = quizQuestions[currentIndex];
+  if (answeredThisRun.has(q.id)) return;
+  pendingSelections.set(q.id, given);
+  markSelectedOption(given);
+}
+
+function confirmSelectedOption() {
+  if (activeSession.finished) return;
+  const q = quizQuestions[currentIndex];
+  const given = pendingSelections.get(q.id);
+  if (!given || answeredThisRun.has(q.id)) return;
+  checkOptionAnswer(given);
+}
+
 function checkOptionAnswer(given) {
   if (activeSession.finished) return;
   const q = quizQuestions[currentIndex];
   const correct = normalizeAnswer(given) === normalizeAnswer(q.respuesta);
   recordAnswer(q.id, correct, given);
+  pendingSelections.delete(q.id);
   if (activeSession.type === "exam") {
-    markExamOption(given);
+    markSelectedOption(given);
+    lockOptionAnswer();
+    els.optionHint.textContent = `Respuesta aceptada: ${given}.`;
     return;
   }
   markOptions(given, q.respuesta);
@@ -736,7 +826,24 @@ function lockCurrentQuestionControls() {
   [...els.optionsBox.children].forEach(btn => {
     btn.disabled = true;
   });
+  els.confirmOptionBtn.disabled = true;
   lockTextAnswer();
+}
+
+function lockOptionAnswer() {
+  [...els.optionsBox.children].forEach(btn => {
+    btn.disabled = true;
+  });
+  els.confirmOptionBtn.disabled = true;
+}
+
+function markSelectedOption(given) {
+  [...els.optionsBox.children].forEach(btn => {
+    const key = btn.textContent.slice(0, 1);
+    btn.classList.toggle("selected", normalizeAnswer(key) === normalizeAnswer(given));
+  });
+  els.confirmOptionBtn.disabled = false;
+  els.optionHint.textContent = `Seleccionada: ${given}. Puedes cambiarla antes de aceptar.`;
 }
 
 function markOptions(given, correctAnswer) {
@@ -746,14 +853,8 @@ function markOptions(given, correctAnswer) {
     if (normalizeAnswer(key) === normalizeAnswer(correctAnswer)) btn.classList.add("correct");
     if (normalizeAnswer(key) === normalizeAnswer(given) && normalizeAnswer(given) !== normalizeAnswer(correctAnswer)) btn.classList.add("wrong");
   });
-}
-
-function markExamOption(given) {
-  [...els.optionsBox.children].forEach(btn => {
-    btn.disabled = true;
-    const key = btn.textContent.slice(0, 1);
-    if (normalizeAnswer(key) === normalizeAnswer(given)) btn.classList.add("selected");
-  });
+  els.confirmOptionBtn.disabled = true;
+  els.optionHint.textContent = `Respuesta aceptada: ${given}.`;
 }
 
 function showFeedback(correct, q, given) {
@@ -830,7 +931,27 @@ function finishSession(prefix = "") {
   activeSession.finished = true;
   stopSessionTimer();
   lockCurrentQuestionControls();
-  alert(buildSessionSummary(prefix));
+  renderSessionSummary(buildSessionSummary(prefix));
+  switchTab("exerciseTab");
+}
+
+function renderSessionSummary(summaryText) {
+  const lines = summaryText.split("\n").map(line => line.trim()).filter(Boolean);
+  const title = lines.shift() || "Sesión terminada.";
+  els.sessionSummaryCard.classList.remove("hidden");
+  els.sessionSummaryText.textContent = title;
+  els.sessionSummaryBox.classList.remove("hidden");
+  els.sessionSummaryBox.innerHTML = `
+    <div class="summary-lines">
+      ${lines.map(line => `<p>${escapeHtml(line)}</p>`).join("")}
+    </div>
+    <div class="actions summary-actions">
+      <button class="primary" type="button" id="summaryNewPracticeBtn">Nueva sesión</button>
+      <button class="secondary" type="button" id="summaryMistakesBtn">Repasar fallos</button>
+    </div>
+  `;
+  document.getElementById("summaryNewPracticeBtn").addEventListener("click", () => switchTab("configTab"));
+  document.getElementById("summaryMistakesBtn").addEventListener("click", () => quickStart("fallos", "10"));
 }
 
 function buildSessionSummary(prefix = "") {

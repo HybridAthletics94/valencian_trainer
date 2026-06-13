@@ -1,4 +1,4 @@
-const CACHE = "valenciano-trainer-v10";
+const CACHE = "valenciano-trainer-v17";
 const CORE_ASSETS = [
   "./",
   "./index.html",
@@ -6,6 +6,7 @@ const CORE_ASSETS = [
   "./app.js",
   "./manifest.webmanifest",
   "./app-icon.svg",
+  "./assets/paellitis-hero.jpg",
   "./data/manifest.json",
   "./data/examenes.csv",
   "./simulacros/simulacro_b2.csv",

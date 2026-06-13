@@ -1,14 +1,14 @@
 {
-  "name": "Entrenador de Valenciano",
-  "short_name": "Valencià",
-  "description": "App sencilla para practicar valenciano B2, C1 y C2 desde el móvil.",
+  "name": "Paellitis",
+  "short_name": "Paellitis",
+  "description": "Entrenador de valenciano B2, C1 y C2 con práctica, simulacros y progreso.",
   "id": "./",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f6f7fb",
-  "theme_color": "#1f6feb",
+  "background_color": "#f7ecd9",
+  "theme_color": "#a84f2a",
   "lang": "es",
   "categories": ["education", "productivity"],
   "icons": [
@@ -23,7 +23,7 @@
     {
       "name": "Practicar",
       "short_name": "Practicar",
-      "description": "Abrir el entrenador de valenciano",
+      "description": "Abrir Paellitis",
       "url": "./index.html",
       "icons": [
         {
